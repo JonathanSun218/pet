@@ -2,6 +2,8 @@
   "id": "cpje-law",
   "title": "CPJE - Law",
   "description": "California pharmacy law questions covering regulations, DEA requirements, Board of Pharmacy rules, and HIPAA.",
+  "timeLimit": 1,
+  "passingScore": 70,
   "questions": [
     {
       "type": "multiple-choice",

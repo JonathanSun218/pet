@@ -2,6 +2,8 @@
   "id": "cpje-clinical",
   "title": "CPJE - Clinical",
   "description": "Clinical pharmacy questions covering drug interactions, pharmacology, therapeutics, and patient counseling.",
+  "timeLimit": 1,
+  "passingScore": 70,
   "questions": [
     {
       "type": "multiple-choice",

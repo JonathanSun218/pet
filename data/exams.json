@@ -24,14 +24,14 @@
     "id": "cpje-clinical-questions",
     "title": "CPJE Clinical Questions",
     "description": "From study guide.pdf.",
-    "timeLimit": 5,
-    "passingScore": 60
+    "timeLimit": 1,
+    "passingScore": 70
   },
   {
     "id": "cpje-law-questions",
     "title": "CPJE Law Questions",
     "description": "From study guide.pdf.",
-    "timeLimit": 5,
-    "passingScore": 60
+    "timeLimit": 1,
+    "passingScore": 70
   }
 ]
