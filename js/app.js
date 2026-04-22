@@ -21,6 +21,15 @@ function escapeHtml(str) {
     .replace(/'/g, '&#039;');
 }
 
+function shuffleArray(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 function isCorrect(question, userAnswer) {
   if (!userAnswer || userAnswer.trim() === '') return false;
   const ua = userAnswer.trim();
@@ -86,7 +95,8 @@ async function initLanding() {
 }
 
 function startExam(id) {
-  window.location.href = `exam.html?id=${encodeURIComponent(id)}`;
+  const scramble = document.getElementById('scramble-toggle')?.checked ? '1' : '0';
+  window.location.href = `exam.html?id=${encodeURIComponent(id)}&scramble=${scramble}`;
 }
 
 // ============================================================
@@ -100,7 +110,10 @@ const state = {
   timeRemaining: 0,
   timerInterval: null,
   startTime: null,
-  submitted: false
+  submitted: false,
+  scramble: false,
+  questionOrder: [],
+  optionOrders: []
 };
 
 async function initExam() {
@@ -132,6 +145,15 @@ async function initExam() {
   state.timeRemaining = exam.timeLimit * 60;
   state.startTime = Date.now();
   state.submitted = false;
+  state.scramble = getUrlParam('scramble') === '1';
+  state.questionOrder = state.scramble
+    ? shuffleArray(exam.questions.map((_, i) => i))
+    : exam.questions.map((_, i) => i);
+  state.optionOrders = exam.questions.map(q =>
+    q.type === 'multiple-choice'
+      ? (state.scramble ? shuffleArray(q.options.map((_, i) => i)) : q.options.map((_, i) => i))
+      : []
+  );
 
   document.getElementById('exam-title').textContent = exam.title;
   document.title = `${exam.title} — ExamKit`;
@@ -160,8 +182,9 @@ function updateTimer() {
 }
 
 function renderQuestion() {
-  const { exam, currentIndex, answers } = state;
-  const q = exam.questions[currentIndex];
+  const { exam, currentIndex, answers, questionOrder, optionOrders } = state;
+  const qIndex = questionOrder[currentIndex];
+  const q = exam.questions[qIndex];
   const total = exam.questions.length;
 
   document.getElementById('question-counter').textContent =
@@ -190,10 +213,11 @@ function renderQuestion() {
   const area = document.getElementById('answer-area');
 
   if (q.type === 'multiple-choice') {
-    area.innerHTML = q.options.map((opt, i) => `
-      <label class="option-label ${answers[currentIndex] === opt ? 'selected' : ''}">
+    const orderedOptions = optionOrders[qIndex].map(i => q.options[i]);
+    area.innerHTML = orderedOptions.map((opt, i) => `
+      <label class="option-label ${answers[qIndex] === opt ? 'selected' : ''}">
         <input type="radio" name="mc-answer" value="${escapeHtml(opt)}"
-               ${answers[currentIndex] === opt ? 'checked' : ''}>
+               ${answers[qIndex] === opt ? 'checked' : ''}>
         <span class="option-marker">${String.fromCharCode(65 + i)}</span>
         <span class="option-text">${escapeHtml(opt)}</span>
       </label>
@@ -201,7 +225,7 @@ function renderQuestion() {
 
     area.querySelectorAll('input[type=radio]').forEach(input => {
       input.addEventListener('change', () => {
-        state.answers[currentIndex] = input.value;
+        state.answers[qIndex] = input.value;
         area.querySelectorAll('.option-label').forEach(l => l.classList.remove('selected'));
         input.closest('.option-label').classList.add('selected');
       });
@@ -210,12 +234,12 @@ function renderQuestion() {
     area.innerHTML = `
       <input type="text" id="sa-input" class="short-answer-input"
              placeholder="Type your answer here…"
-             value="${escapeHtml(answers[currentIndex])}"
+             value="${escapeHtml(answers[qIndex])}"
              autocomplete="off" spellcheck="false">
     `;
     const input = document.getElementById('sa-input');
     input.focus();
-    input.addEventListener('input', () => { state.answers[currentIndex] = input.value; });
+    input.addEventListener('input', () => { state.answers[qIndex] = input.value; });
     input.addEventListener('keydown', e => { if (e.key === 'Enter') nextQuestion(); });
   }
 
@@ -250,15 +274,18 @@ function submitExam(timedOut) {
     passingScore: exam.passingScore,
     timeTaken,
     timedOut: !!timedOut,
-    questions: exam.questions.map((q, i) => ({
-      question: q.question,
-      image: q.image || null,
-      type: q.type,
-      userAnswer: answers[i] || '',
-      correctAnswer: Array.isArray(q.answer) ? q.answer[0] : q.answer,
-      correct: isCorrect(q, answers[i]),
-      explanation: q.explanation || ''
-    }))
+    questions: state.questionOrder.map((qIndex) => {
+      const q = exam.questions[qIndex];
+      return {
+        question: q.question,
+        image: q.image || null,
+        type: q.type,
+        userAnswer: answers[qIndex] || '',
+        correctAnswer: Array.isArray(q.answer) ? q.answer[0] : q.answer,
+        correct: isCorrect(q, answers[qIndex]),
+        explanation: q.explanation || ''
+      };
+    })
   };
 
   sessionStorage.setItem('examResults', JSON.stringify(results));
