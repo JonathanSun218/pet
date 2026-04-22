@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exam — ExamKit</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="header exam-header">
+    <a href="index.html" class="header-logo">ExamKit</a>
+    <h1 id="exam-title" class="exam-header-title"></h1>
+    <div class="timer-wrap">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"/>
+        <polyline points="12 6 12 12 16 14"/>
+      </svg>
+      <span id="timer" class="timer" role="timer" aria-label="Time remaining">--:--</span>
+    </div>
+  </header>
+
+  <div class="exam-progress" role="progressbar" aria-valuemin="0" aria-label="Exam progress">
+    <div class="progress-track">
+      <div id="progress-bar" class="progress-fill"></div>
+    </div>
+    <span id="question-counter" class="question-counter">Loading…</span>
+  </div>
+
+  <main class="container exam-container">
+    <div class="question-card">
+      <div class="question-card-header">
+        <span id="question-type-badge" class="question-type-badge"></span>
+      </div>
+      <p id="question-text" class="question-text"></p>
+      <div id="question-image"></div>
+      <div id="answer-area" class="answer-area"></div>
+    </div>
+
+    <div class="exam-nav">
+      <button id="next-btn" onclick="nextQuestion()" class="btn btn-primary">
+        Next Question &rarr;
+      </button>
+    </div>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

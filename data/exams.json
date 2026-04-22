@@ -1,0 +1,23 @@
+[
+  {
+    "id": "web-dev-basics",
+    "title": "Web Development Basics",
+    "description": "Test your understanding of HTML, CSS, and JavaScript fundamentals.",
+    "timeLimit": 10,
+    "passingScore": 70
+  },
+  {
+    "id": "world-geography",
+    "title": "World Geography",
+    "description": "How well do you know the world's countries, capitals, and landmarks?",
+    "timeLimit": 8,
+    "passingScore": 60
+  },
+  {
+    "id": "science-trivia",
+    "title": "Science Trivia",
+    "description": "A quick test covering biology, chemistry, physics, and general science.",
+    "timeLimit": 5,
+    "passingScore": 60
+  }
+]

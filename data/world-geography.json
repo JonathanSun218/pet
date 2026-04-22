@@ -1,0 +1,63 @@
+{
+  "id": "world-geography",
+  "title": "World Geography",
+  "description": "How well do you know the world's countries, capitals, and landmarks?",
+  "timeLimit": 8,
+  "passingScore": 60,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra",
+      "explanation": "Canberra is the capital of Australia, often confused with Sydney which is the largest city."
+    },
+    {
+      "type": "short-answer",
+      "question": "What is the longest river in the world?",
+      "answer": ["Nile", "Nile River", "The Nile"],
+      "explanation": "The Nile River in Africa is generally considered the longest river at approximately 6,650 km."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which country has the largest land area?",
+      "options": ["China", "United States", "Canada", "Russia"],
+      "answer": "Russia",
+      "explanation": "Russia is the largest country by land area, covering about 17.1 million square kilometers."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Mount Everest is located in which mountain range?",
+      "image": { "src": "images/everest.jpg", "alt": "Snow-capped mountain peak" },
+      "options": ["Alps", "Andes", "Himalayas", "Rockies"],
+      "answer": "Himalayas",
+      "explanation": "Mount Everest is the highest peak in the Himalayas, on the border of Nepal and Tibet."
+    },
+    {
+      "type": "short-answer",
+      "question": "What is the capital of Japan?",
+      "answer": ["Tokyo", "tokyo"],
+      "explanation": "Tokyo is the capital and largest city of Japan."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": "Pacific",
+      "explanation": "The Pacific Ocean is the largest and deepest ocean, covering more than 30% of Earth's surface."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The Amazon Rainforest is primarily located in which country?",
+      "options": ["Colombia", "Peru", "Brazil", "Venezuela"],
+      "answer": "Brazil",
+      "explanation": "About 60% of the Amazon Rainforest is located in Brazil."
+    },
+    {
+      "type": "short-answer",
+      "question": "On which continent is Egypt located?",
+      "answer": ["Africa", "africa"],
+      "explanation": "Egypt is located in the northeastern corner of Africa."
+    }
+  ]
+}

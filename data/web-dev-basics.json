@@ -1,0 +1,76 @@
+{
+  "id": "web-dev-basics",
+  "title": "Web Development Basics",
+  "description": "Test your understanding of HTML, CSS, and JavaScript fundamentals.",
+  "timeLimit": 10,
+  "passingScore": 70,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "Which HTML tag is used to define an internal style sheet?",
+      "options": ["<css>", "<style>", "<script>", "<link>"],
+      "answer": "<style>",
+      "explanation": "The <style> tag is used to define CSS styles within an HTML document."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which CSS property changes the text color of an element?",
+      "options": ["text-color", "font-color", "color", "foreground-color"],
+      "answer": "color",
+      "explanation": "The CSS 'color' property specifies the color of text."
+    },
+    {
+      "type": "short-answer",
+      "question": "What does HTML stand for?",
+      "answer": ["HyperText Markup Language", "Hypertext Markup Language"],
+      "explanation": "HTML stands for HyperText Markup Language."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you select an element with id 'header' in CSS?",
+      "options": [".header", "#header", "*header", "header"],
+      "answer": "#header",
+      "explanation": "In CSS, the # symbol selects elements by their ID."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which JavaScript method adds an element at the end of an array?",
+      "options": ["append()", "push()", "add()", "insert()"],
+      "answer": "push()",
+      "explanation": "The push() method adds one or more elements to the end of an array."
+    },
+    {
+      "type": "short-answer",
+      "question": "What does CSS stand for?",
+      "answer": ["Cascading Style Sheets", "cascading style sheets"],
+      "explanation": "CSS stands for Cascading Style Sheets."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which property sets the background color of an element?",
+      "options": ["background-color", "bgcolor", "color", "background"],
+      "answer": "background-color",
+      "explanation": "The background-color property sets the background color of an element."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you write a single-line JavaScript comment?",
+      "options": ["<!-- comment -->", "// comment", "/* comment */", "# comment"],
+      "answer": "// comment",
+      "explanation": "Single-line JavaScript comments start with //."
+    },
+    {
+      "type": "short-answer",
+      "question": "Which HTML attribute adds inline styles to an element?",
+      "answer": ["style"],
+      "explanation": "The style attribute is used to add inline CSS styling to an HTML element."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the CSS 'z-index' property control?",
+      "options": ["Zoom level", "Stack order", "Width", "Z-axis position"],
+      "answer": "Stack order",
+      "explanation": "z-index specifies the stack order of elements (which element appears in front or behind others)."
+    }
+  ]
+}

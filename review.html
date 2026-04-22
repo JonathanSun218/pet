@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Results — ExamKit</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="header">
+    <a href="index.html" class="header-logo">ExamKit</a>
+  </header>
+
+  <main class="container">
+
+    <!-- Score summary -->
+    <div class="score-section">
+      <div id="score-circle" class="score-circle">
+        <span id="score-number" class="score-number"></span>
+        <span class="score-label">Score</span>
+      </div>
+      <div class="score-details">
+        <h1 id="exam-title-review"></h1>
+        <p id="score-fraction" class="score-fraction"></p>
+        <span id="pass-fail-badge" class="pass-fail-badge"></span>
+        <p class="score-meta">Time taken: <strong><span id="time-taken"></span></strong></p>
+      </div>
+    </div>
+
+    <!-- Timed-out notice (hidden by default) -->
+    <div id="timed-out-notice" class="timed-out-notice" role="alert">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"/>
+        <polyline points="12 6 12 12 16 14"/>
+      </svg>
+      Time's up! The exam was automatically submitted.
+    </div>
+
+    <!-- Per-question review -->
+    <p class="review-section-title">Question Review</p>
+    <div id="review-list" class="review-list"></div>
+
+    <div class="review-actions">
+      <a href="index.html" class="btn btn-primary">&larr; Take Another Exam</a>
+    </div>
+
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

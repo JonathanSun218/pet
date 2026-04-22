@@ -1,0 +1,43 @@
+{
+  "id": "science-trivia",
+  "title": "Science Trivia",
+  "description": "A quick test covering biology, chemistry, physics, and general science.",
+  "timeLimit": 5,
+  "passingScore": 60,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": "Au",
+      "explanation": "Gold's symbol Au comes from the Latin word 'aurum'."
+    },
+    {
+      "type": "short-answer",
+      "question": "What planet is known as the Red Planet?",
+      "answer": ["Mars", "mars"],
+      "explanation": "Mars is called the Red Planet because of iron oxide (rust) on its surface."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the powerhouse of the cell?",
+      "image": { "src": "images/cell-diagram.png", "alt": "Diagram of an animal cell" },
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic Reticulum"],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning the nickname 'powerhouse of the cell'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the approximate speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+      "answer": "300,000 km/s",
+      "explanation": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+    },
+    {
+      "type": "short-answer",
+      "question": "What gas do plants absorb during photosynthesis?",
+      "answer": ["carbon dioxide", "Carbon dioxide", "CO2", "co2"],
+      "explanation": "Plants absorb carbon dioxide (CO2) and use it with water and sunlight to produce glucose and oxygen."
+    }
+  ]
+}
