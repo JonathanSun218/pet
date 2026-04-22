@@ -1,0 +1,521 @@
+{
+  "id": "cpje-clinical",
+  "title": "CPJE - Clinical",
+  "description": "Clinical pharmacy questions covering drug interactions, pharmacology, therapeutics, and patient counseling.",
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "A Pharmacist is dispensing new prescriptions for fosamprenavir, ritonavir, and truvada. In reviewing the patient's profile info, the pharmacist notes allergies to furosemide, glipizide, and bactrim. The pharmacist should call the physician to change:",
+      "options": [
+        "A. Truvada to combivir",
+        "B. Fosamprenavir to Saquinavir",
+        "C. Truvada to Atripla",
+        "D. Fosamprenavir to tipranavir"
+      ],
+      "answer": "B. Fosamprenavir to Saquinavir",
+      "explanation": "Fosamprenavir contains a sulfonamide moiety. The patient is allergic to Bactrim (a sulfa drug), glipizide (a sulfonylurea), and furosemide (a sulfonamide-based loop diuretic). Fosamprenavir should be changed to avoid a cross-reaction."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist is reviewing a patient's medication profile prior to filling a new prescription for fentanyl transdermal patches. Which of the following presents a potential risk of interaction with fentanyl?",
+      "options": [
+        "A. Nicotine transdermal patches",
+        "B. Carbamazepine 200 mg BID",
+        "C. Brimonidine eye drops OU BID",
+        "D. Finasteride 5 mg QDAY"
+      ],
+      "answer": "B. Carbamazepine 200 mg BID",
+      "explanation": "Carbamazepine is a strong CYP3A4 inducer and can significantly decrease fentanyl plasma levels, reducing its efficacy and potentially causing inadequate pain control."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A 67-year old man was started on ticlopidine 1 month ago for stroke prevention. The patient complains of recent fever, chills, sore throat. Which of the following is the MOST appropriate for the pharmacist to ask the physician?",
+      "options": [
+        "A. \"Has the patient had an INR check recently?\"",
+        "B. \"Has the patient had a CBC done yet?\"",
+        "C. \"Has the patient's diet changed over the past month?\"",
+        "D. \"Has the patient had LFTs done in the past 2 weeks?\""
+      ],
+      "answer": "B. \"Has the patient had a CBC done yet?\"",
+      "explanation": "Ticlopidine can cause neutropenia/agranulocytosis. Fever, chills, and sore throat are classic signs of agranulocytosis. A CBC should be checked to evaluate WBC and neutrophil counts."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following auxillary labels belongs on a bottle of Vivotif Berna?",
+      "options": [
+        "A. Refrigerate",
+        "B. For external use only",
+        "C. Avoid sunlight",
+        "D. Shake well"
+      ],
+      "answer": "A. Refrigerate",
+      "explanation": "Vivotif Berna (typhoid vaccine, live oral) must be refrigerated to maintain vaccine viability."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient has just been counseled on appropriate use of Niaspan. Which of the following statements would confirm patient understanding of the purpose for taking this medication?",
+      "options": [
+        "A. This medication will treat my high BP and lower risk of stroke.",
+        "B. This medication will treat my high cholesterol and lower my risk of heart attack.",
+        "C. This medication will treat my enlarged prostate and I won't have to get up at night to urinate.",
+        "D. This medication will help keep my mood stable and allow me to sleep better at night."
+      ],
+      "answer": "B. This medication will treat my high cholesterol and lower my risk of heart attack.",
+      "explanation": "Niaspan (niacin extended-release) is used to treat dyslipidemia \u2014 it raises HDL and lowers LDL and triglycerides, reducing cardiovascular risk."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient presents a prescription for Prevacid, but the pharmacy is out of this medication. Which of the following is MOST appropriate for the pharmacist to recommend to the physician as an alternative?",
+      "options": [
+        "A. Pantoprazole",
+        "B. Aripiprazole",
+        "C. Sulfisoxazole",
+        "D. Mebendazole"
+      ],
+      "answer": "A. Pantoprazole",
+      "explanation": "Prevacid (lansoprazole) is a proton pump inhibitor (PPI). Pantoprazole is also a PPI and is the appropriate therapeutic alternative."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following drugs require a pharmacist to include a medication guide when dispensing?\n1. Mefloquine\n2. Methocarbamol\n3. Digoxin\n4. Amiodarone",
+      "options": [
+        "A. 1 and 2 only",
+        "B. 1 and 4 only",
+        "C. 2 and 3 only",
+        "D. 3 and 4 only"
+      ],
+      "answer": "B. 1 and 4 only",
+      "explanation": "Mefloquine (antimalarial with neuropsychiatric risks) and Amiodarone (antiarrhythmic with serious toxicity profile) both require FDA-mandated Medication Guides. Methocarbamol and digoxin do not."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A 37-year old patient with schizophrenia has been treated with clozapine 500 mg daily x 4 months. The patient has the following CBC results:\nJune 30: WBC 10.1, neutrophils 7.3\nJune 22: WBC 10.7, neutrophils 7.4\nJune 16: WBC 6.5, neutrophils 3.5\nJune 9: WBC 6.3, neutrophils 3.4\nJune 2: WBC 6.7, neutrophils 3.8\nOn July 7, the patient's WBC is 7.2, and neutrophils are 4.3. The most appropriate recommendation for the pharmacist to make is to:",
+      "options": [
+        "A. Continue current therapy",
+        "B. D/C therapy",
+        "C. Hold therapy x 1 week, then resume at 400 mg daily",
+        "D. Repeat CBC and fill if WBC is greater than 8"
+      ],
+      "answer": "A. Continue current therapy",
+      "explanation": "The patient's most recent WBC (7.2) and ANC (4.3) are above the thresholds for discontinuation (WBC <3.0, ANC <1.5). The earlier values in early June showed mild concern but have since improved. It is appropriate to continue therapy."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient with diabetes and HTN is being managed by a pharmacist. Which of the following medications is MOST likely to cause a dry cough in this patient?",
+      "options": [
+        "A. Doxazosin",
+        "B. Lisinopril",
+        "C. Hydralazine",
+        "D. Spironolactone"
+      ],
+      "answer": "B. Lisinopril",
+      "explanation": "ACE inhibitors like lisinopril commonly cause a dry, persistent cough due to accumulation of bradykinin in the lungs."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When counseling a patient receiving a new prescription for cyclobenzaprine, a pharmacist can verify that the patient understands the purpose of the medication if the patient states, \"This medication will treat my:\"",
+      "options": [
+        "A. Infection",
+        "B. Heartburn",
+        "C. Blood pressure",
+        "D. Back pain"
+      ],
+      "answer": "D. Back pain",
+      "explanation": "Cyclobenzaprine (Amrix, Fexmid) is a skeletal muscle relaxant used to treat muscle spasms and associated pain, commonly for back pain."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient presents the following prescription:\nLevofloxacin 750 mg PO q24h x 7 days\nThe patient is currently taking:\nPepcid AC prn, Amlodipine 5 mg daily, Ovrette daily, Coumadin 3 mg daily\nWhich of the following recommendations is MOST appropriate for the pharmacist to make?",
+      "options": [
+        "A. Monitor for bruising and bleeding while taking levo",
+        "B. Continue to take Ovrette and use back up contraception while taking levo",
+        "C. Monitor for muscle aches while taking levo",
+        "D. D/C Pepcid AC use until completion of levo"
+      ],
+      "answer": "A. Monitor for bruising and bleeding while taking levo",
+      "explanation": "Levofloxacin (a fluoroquinolone) inhibits CYP1A2 and can increase warfarin (Coumadin) levels, raising the risk of bleeding. The patient should be counseled to monitor for bruising and bleeding."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient comes into the pharmacy with a prescription for erythromycin. During a consultation, the patient mentions that her new job in construction has made her allergies unbearable. The patient asks the pharmacist to call her physician for a new prescription for this condition. The physician asks for the pharmacist's recommendation. Which of the following antihistamines should be suggested for this patient?",
+      "options": [
+        "A. Loratadine",
+        "B. Clemastine",
+        "C. Cetirizine",
+        "D. Diphenhydramine"
+      ],
+      "answer": "A. Loratadine",
+      "explanation": "Loratadine is a non-sedating (second-generation) antihistamine, making it the safest choice for a patient who works in construction and must operate equipment. Erythromycin is a CYP inhibitor that can increase levels of sedating antihistamines, making this choice even more important."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist is checking the accuracy of medications repackaged into unit dose form by a pharmacy technician. The medication that was to be repackaged is Monopril. Which of the following medications should have been used?",
+      "options": [
+        "A. Quinapril",
+        "B. Moexipril",
+        "C. Fosinopril",
+        "D. Benazepril"
+      ],
+      "answer": "C. Fosinopril",
+      "explanation": "Monopril is the brand name for fosinopril, an ACE inhibitor."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A new patient enrolling in an HIV adherence program is started on the following medications:\nReyataz 300 mg PO QD, Norvir 100 mg PO QD, Videx EC 250 mg PO QD, Viread 300 mg PO QD\nThe dosing regimen that the pharmacist should give the patient is:",
+      "options": [
+        "A. Reyataz, Norvir, Videx EC, and Viread with breakfast",
+        "B. Reyataz, Norvir, Videx EC and Viread at bedtime with empty stomach",
+        "C. Reyataz, Norvir, Viread with breakfast, and Videx EC at bedtime with an empty stomach",
+        "D. Videx EC and Viread with breakfast and Reyataz and Norvir at bedtime on empty stomach"
+      ],
+      "answer": "C. Reyataz, Norvir, Viread with breakfast, and Videx EC at bedtime with an empty stomach",
+      "explanation": "Reyataz (atazanavir) and Norvir (ritonavir) should be taken with food. Viread (tenofovir) is also taken with food. Videx EC (didanosine) must be taken on an empty stomach, so it is best separated from the other medications and given at bedtime."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following options should the pharmacist recommend for a 72-year old woman who usually takes 0.2 mg of levothyroxine by mouth daily, who is currently intubated and on a ventilator?",
+      "options": [
+        "A. Levo 100 mcg IV daily",
+        "B. Levo 200 mg IV daily",
+        "C. Liothyronine 150 mcg IV daily",
+        "D. Liothyronine 200 mcg IV daily"
+      ],
+      "answer": "A. Levo 100 mcg IV daily",
+      "explanation": "When converting levothyroxine from PO to IV, use 50\u201375% of the oral dose. 0.2 mg = 200 mcg PO. 50\u201375% of 200 mcg = 100\u2013150 mcg IV. 100 mcg IV daily is the correct conversion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A Pharmacist is conducting a medication use evaluation (MUE) on epidural clonidine. Which of the following indicators would be most appropriate to determine if the use of epidural clonidine has had a beneficial effect on patient outcomes?",
+      "options": [
+        "A. The number of patients who are diagnosed with HTN crisis",
+        "B. The number of analgesic doses needed for breakthrough pain in cancer patients",
+        "C. The amount of methadone needed by patients who are enrolled in methadone maintenance programs",
+        "D. The number of patients who are smokers needing nicotine patches"
+      ],
+      "answer": "B. The number of analgesic doses needed for breakthrough pain in cancer patients",
+      "explanation": "Epidural clonidine is approved for cancer pain management. A reduction in the number of analgesic doses needed for breakthrough pain would indicate a beneficial therapeutic effect."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy can dispense \"Ilaris\" after which of the following conditions have been met?",
+      "options": [
+        "A. An infectious disease physician has approved the patient's treatment regimen",
+        "B. The FDA granted orphan drug exemption to the pharmacy",
+        "C. The patient has been admitted into a general acute care hospital",
+        "D. The manufacturer designates the pharmacy as authorized distributor"
+      ],
+      "answer": "D. The manufacturer designates the pharmacy as authorized distributor",
+      "explanation": "Ilaris (canakinumab) is a specialty biologic with a restricted distribution program. Only pharmacies designated as authorized distributors by the manufacturer may dispense it."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A compounding pharmacist has received the following prescription for a 44-pound five-year-old child:\nMetronidazole oral suspension 50mg/ml; give 6 ml BID x 10 days (NOTE: 30 mg/kg/day)\nWhich of the following is MOST appropriate action for the pharmacist to take?",
+      "options": [
+        "A. Dispense as written",
+        "B. Contact the physician to change the dose",
+        "C. Contact physician to change the frequency",
+        "D. Contact the physician since metronidazole is contraindicated with pediatric patients"
+      ],
+      "answer": "A. Dispense as written",
+      "explanation": "44 lbs = 20 kg. 30 mg/kg/day x 20 kg = 600 mg/day. 50 mg/mL x 6 mL x 2 = 600 mg/day. The prescription is appropriate as written."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxillary label \"Do not eat grapefruit or drink grapefruit juice at any time while using this medicine\" applied to the bottle?",
+      "options": [
+        "A. Dexilant",
+        "B. Buspirone",
+        "C. Cozaar",
+        "D. Carbidopa/levodopa"
+      ],
+      "answer": "B. Buspirone",
+      "explanation": "Buspirone is a CYP3A4 substrate. Grapefruit juice is a strong CYP3A4 inhibitor and can significantly increase buspirone levels."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxillary label \"May cause drowsiness. Use care when operating a car or dangerous machinery\" applied to the bottle?",
+      "options": [
+        "A. Wellbutrin",
+        "B. Altoprev",
+        "C. Mirapex",
+        "D. Provigil"
+      ],
+      "answer": "C. Mirapex",
+      "explanation": "Mirapex (pramipexole) is a dopamine agonist used in Parkinson's disease and restless leg syndrome. It can cause somnolence and sudden sleep onset, requiring a drowsiness warning."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following auxillary labels should be placed on a container of Vivotif?",
+      "options": [
+        "A. Avoid sunlight when using this medication",
+        "B. Shake well prior to use",
+        "C. Do not drive a car or operate machinery while using this medication",
+        "D. Refrigerate"
+      ],
+      "answer": "D. Refrigerate",
+      "explanation": "Vivotif (typhoid vaccine, live oral) requires refrigeration to maintain vaccine potency."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxillary label \"check for peanut or soy allergy\" applied to the bottle?",
+      "options": [
+        "A. Pacerone",
+        "B. Paxil",
+        "C. Pravachol",
+        "D. Prometrium"
+      ],
+      "answer": "D. Prometrium",
+      "explanation": "Prometrium (progesterone) capsules contain peanut oil as an excipient, requiring a peanut allergy warning."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxiliary label \"separate from dairy products, calcium, magnesium, or iron tablets and antacids\" applied to the bottle?",
+      "options": [
+        "A. Flagyl",
+        "B. Azithromycin",
+        "C. Griseofulvin",
+        "D. Levofloxacin"
+      ],
+      "answer": "D. Levofloxacin",
+      "explanation": "Fluoroquinolones like levofloxacin chelate with divalent cations (calcium, magnesium, iron, aluminum), reducing absorption. They should be separated from these products."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxiliary label \"Medication should be taken with plenty of water\" applied to the bottle EXCEPT:",
+      "options": [
+        "A. Alendronate",
+        "B. Coreg",
+        "C. Boniva",
+        "D. Bactrim"
+      ],
+      "answer": "B. Coreg",
+      "explanation": "Alendronate (Fosamax), Boniva (ibandronate), and Bactrim (sulfamethoxazole/trimethoprim) all require plenty of water. Coreg (carvedilol) does not have this requirement."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following auxiliary labels should be applied to a medication container of Roxicodone?\n1. Caution: federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.\n2. Do not drink alcoholic beverages\n3. Do not crush or chew.\n4. May be opened and placed into a small amount of applesauce",
+      "options": [
+        "A. 1 and 2 only",
+        "B. 1 and 4 only",
+        "C. 2 and 3 only",
+        "D. 1 and 3 only"
+      ],
+      "answer": "A. 1 and 2 only",
+      "explanation": "Roxicodone (oxycodone immediate-release) is a Schedule II controlled substance requiring the federal transfer prohibition label. It also requires an alcohol avoidance warning. It is NOT extended-release, so it can be crushed or chewed, making label 3 incorrect. Label 4 applies to extended-release formulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxillary label \"Finish all this medication unless otherwise directed by a prescriber\" applied to the bottle?",
+      "options": [
+        "A. Sildenafil",
+        "B. Percocet",
+        "C. Phenazopyridine",
+        "D. Valcyte"
+      ],
+      "answer": "D. Valcyte",
+      "explanation": "Valcyte (valganciclovir) is an antiviral used in transplant patients and CMV treatment. It is critical to complete the full course to prevent resistance and treatment failure."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxillary label \"swallow whole. do not chew or crush\" applied to the bottle?",
+      "options": [
+        "A. Roxicodone",
+        "B. Klonopin",
+        "C. Concerta",
+        "D. Lopressor"
+      ],
+      "answer": "C. Concerta",
+      "explanation": "Concerta (methylphenidate extended-release) uses an osmotic delivery system (OROS). Crushing or chewing it would destroy the extended-release mechanism and cause dose dumping."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following products will require the pharmacist to affix an auxiliary label that says \"Shake well before using\"?",
+      "options": [
+        "A. Robitussin DM",
+        "B. Guaifenesin with codeine",
+        "C. Advair",
+        "D. ProAir HFA"
+      ],
+      "answer": "D. ProAir HFA",
+      "explanation": "ProAir HFA (albuterol) is a metered-dose inhaler suspension that requires shaking before each use to ensure uniform drug dispersion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist is preparing a doxorubicin infusion. The pharmacist must place the following label on the bag:",
+      "options": [
+        "A. Chemotherapy-dispose of properly",
+        "B. Protect from light",
+        "C. High Alert",
+        "D. Do not refrigerate"
+      ],
+      "answer": "A. Chemotherapy-dispose of properly",
+      "explanation": "Doxorubicin is a chemotherapy (hazardous drug). All chemotherapy preparations must be labeled with a chemotherapy label instructing proper disposal."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Each of the following medications should have the auxiliary label \"warning: this medication may make birth control less effective\" applied to the bottle EXCEPT:",
+      "options": [
+        "A. Phenobarbital",
+        "B. Rifampin",
+        "C. Amiodarone",
+        "D. Carbamazepine"
+      ],
+      "answer": "C. Amiodarone",
+      "explanation": "Phenobarbital, rifampin, and carbamazepine are all CYP inducers that reduce oral contraceptive effectiveness. Amiodarone is a CYP inhibitor, not an inducer, and does not reduce contraceptive effectiveness."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following belongs on a label for heparin?",
+      "options": [
+        "A. For central line administration only",
+        "B. High Alert",
+        "C. Administer by intramuscular injection (IM)",
+        "D. Filter"
+      ],
+      "answer": "B. High Alert",
+      "explanation": "Heparin is on the ISMP high-alert medication list due to the risk of serious harm if used in error. A High Alert label is required."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Each of the following medications should have the auxiliary label \"warning: if your stool becomes soft and watery after using this antibiotic, contact your doctor immediately\" applied to the bottle EXCEPT:",
+      "options": [
+        "A. Cleocin",
+        "B. Levaquin",
+        "C. Flagyl",
+        "D. Augmentin"
+      ],
+      "answer": "C. Flagyl",
+      "explanation": "Flagyl (metronidazole) is actually used to TREAT C. difficile colitis (CDAD), so a warning about watery stools causing concern would be inappropriate. Cleocin (clindamycin), Levaquin (levofloxacin), and Augmentin are associated with causing CDAD."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Each of the following medications should have the auxiliary label \"may cause discoloration of the urine, skin, and sweat\" applied to the bottle EXCEPT:",
+      "options": [
+        "A. Dexmedetomidine",
+        "B. Phenazopyridine",
+        "C. Rifampin",
+        "D. Nitrofurantoin"
+      ],
+      "answer": "A. Dexmedetomidine",
+      "explanation": "Phenazopyridine (orange urine), rifampin (orange/red discoloration of bodily fluids), and nitrofurantoin (brown/dark urine) all cause discoloration. Dexmedetomidine (Precedex) is an ICU sedative and does not cause discoloration."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications should have the auxillary label \"take with food\" applied to the bottle?",
+      "options": [
+        "A. Boniva",
+        "B. Levothyroxine",
+        "C. Voriconazole",
+        "D. Naproxen"
+      ],
+      "answer": "D. Naproxen",
+      "explanation": "NSAIDs like naproxen should be taken with food to reduce gastric irritation. Boniva and levothyroxine must be taken on an empty stomach."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following medications must have the auxiliary label \"CAUTION: do not take alcohol when using this medicine?\" applied to the bottle?",
+      "options": [
+        "A. Lotensin",
+        "B. Xyzal",
+        "C. Nucynta ER",
+        "D. Symbicort"
+      ],
+      "answer": "C. Nucynta ER",
+      "explanation": "Nucynta ER (tapentadol extended-release) is an opioid analgesic. Alcohol combined with opioids increases CNS/respiratory depression and can be fatal. An alcohol avoidance warning is required."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following does NOT require refrigeration after reconstitution?",
+      "options": [
+        "A. Benzamycin",
+        "B. Keflex",
+        "C. Zithromax",
+        "D. Augmentin"
+      ],
+      "answer": "D. Augmentin",
+      "explanation": "Augmentin (amoxicillin/clavulanate) oral suspension does not require refrigeration after reconstitution and is stable at room temperature. Benzamycin, Keflex suspension, and Zithromax suspension all require refrigeration after reconstitution."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Each of the following medications should have the auxiliary label \"May cause blurred vision\" applied to the bottle EXCEPT:",
+      "options": [
+        "A. Transderm-scop",
+        "B. Vfend",
+        "C. Diflucan",
+        "D. Cialis"
+      ],
+      "answer": "C. Diflucan",
+      "explanation": "Transderm-Scop (scopolamine) has anticholinergic effects causing blurred vision. Vfend (voriconazole) can cause visual disturbances. Cialis (tadalafil) can cause blurred vision. Diflucan (fluconazole) is an antifungal and does not commonly cause blurred vision."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How to treat cisplatin induced nephrotoxicity:",
+      "options": [
+        "A. IV",
+        "B. Hydration",
+        "C. Amifostine",
+        "D. Mannitol"
+      ],
+      "answer": "A. IV (IV fluids, amifostine, mannitol)",
+      "explanation": "Cisplatin-induced nephrotoxicity is prevented and treated with IV fluids, amifostine (Ethyol), and mannitol."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Stribild =",
+      "options": [
+        "A. Elvitegravir",
+        "B. Cobicistat",
+        "C. Emtricitabine",
+        "D. TDF"
+      ],
+      "answer": "A. Elvitegravir (+ Cobicistat + Emtricitabine + TDF)",
+      "explanation": "Stribild is a fixed-dose combination containing elvitegravir (integrase inhibitor), cobicistat (booster), emtricitabine (NRTI), and tenofovir disoproxil fumarate (NRTI)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "HLA-B*5701 positive =",
+      "options": [
+        "A. Do not use abacavir",
+        "B. Epzicom (abacavir + lamivudine)",
+        "C. Trizivir (abacavir + lamivudine + zidovudine)"
+      ],
+      "answer": "A. Do not use abacavir",
+      "explanation": "Patients who test positive for HLA-B*5701 have a high risk of a serious hypersensitivity reaction to abacavir and should not receive it or any combination product containing abacavir."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If pt has a true morphine allergy, what can you give them?",
+      "options": [
+        "A. Methadone",
+        "B. Meperidine (Demerol)",
+        "C. Fentanyl"
+      ],
+      "answer": "A. Methadone",
+      "explanation": "Methadone is a synthetic opioid with a different chemical structure from morphine and is safe to use in patients with a true morphine allergy. Meperidine and fentanyl share structural similarities with morphine and have higher cross-reactivity risk."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Each of the following medications should have the auxiliary label \"AVOID prolonged exposure to SUNLIGHT when using this medicine\" applied to the bottle EXCEPT:",
+      "options": [
+        "A. Plavix",
+        "B. Isotretinoin",
+        "C. Furosemide",
+        "D. Bactrim"
+      ],
+      "answer": "A. Plavix",
+      "explanation": "Isotretinoin, furosemide, and Bactrim (trimethoprim/sulfamethoxazole) all cause photosensitivity. Plavix (clopidogrel) does not cause significant photosensitivity."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A wholesaler received 3 cases of insulin detemir, which were inadvertently placed in the non-refrigerated section of the warehouse and stored for 2 weeks. During this time, the temperature was not regulated or monitored. The wholesaler wishes to deliver these cases to a local pharmacy. What is the best course of action at this time?",
+      "options": [
+        "A. The wholesaler should report this to the DEA with a DEA 106 form.",
+        "B. Deliver the insulin to the pharmacy with a 30-day expiration date",
+        "C. Place the insulin in the refrigerator to obtain the correct temperature before delivery.",
+        "D. Discard all of the insulin"
+      ],
+      "answer": "D. Discard all of the insulin",
+      "explanation": "Insulin detemir requires refrigeration. After being stored at unregulated temperatures for 2 weeks, the insulin's potency and sterility can no longer be guaranteed. It must be discarded."
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "id": "cpje-law",
+  "title": "CPJE - Law",
+  "description": "California pharmacy law questions covering regulations, DEA requirements, Board of Pharmacy rules, and HIPAA.",
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy must retain a record of which of the following after obtaining fentanyl from a distributor?",
+      "options": [
+        "A. Manufacturer DEA number",
+        "B. Packing slip",
+        "C. Invoice",
+        "D. Medication lot number"
+      ],
+      "answer": "C. Invoice",
+      "explanation": "Pharmacies must retain invoices as records of controlled substance acquisition from distributors. Invoices serve as the official purchase record for DEA and BOP purposes."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient presents a prescription with legible license number, but the doctor's name and signature are illegible. Which of the following is MOST appropriate advice for the pharmacist to give the staff?",
+      "options": [
+        "A. Ask if the patient remembers the doctor's name",
+        "B. Tell the patient the prescription cannot be filled",
+        "C. Call the prescriber's telephone number printed on the prescription",
+        "D. Have the patient return the prescription to the doctor and ask for a legible name"
+      ],
+      "answer": "C. Call the prescriber's telephone number printed on the prescription",
+      "explanation": "When a prescriber's name or signature is illegible, the pharmacist should call the telephone number printed on the prescription to verify the prescriber's identity and clarify the prescription."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient calls the pharmacy for a refill of antihypertensive medication previously filled at a pharmacy that is no longer in business. The patient provides the pharmacy with the phone number of the previous owner who has kept the prescription files at his home. Which of the following is MOST appropriate action for the pharmacy?",
+      "options": [
+        "A. Take the verbal prescription as a transfer order and fill the prescription",
+        "B. Verify the records are kept in a locked cabinet",
+        "C. Notify the BOP",
+        "D. Have the pharmacist fax the hard copy to the pharmacy"
+      ],
+      "answer": "C. Notify the BOP",
+      "explanation": "A former pharmacy owner keeping prescription records at home is not compliant with pharmacy law regarding record storage. The Board of Pharmacy must be notified of this situation."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A woman asks a community pharmacist for advice on treating a cut on her child's face. The pharmacist notices that the woman seems very impatient. The child appears fearful and has several large bruises on his face, forehead, neck, and arms. Which of the following actions should the pharmacist take?",
+      "options": [
+        "A. Advise the woman to take her child to a physician for evaluation and treatment.",
+        "B. Suggest a topical antibiotic ointment be applied twice a day to the wound if it does not appear to need suturing.",
+        "C. Report the encounter to the police department or county Child Protective Services",
+        "D. Establish a medication profile for the child and record all non-prescription products that are recommended for use"
+      ],
+      "answer": "C. Report the encounter to the police department or county Child Protective Services",
+      "explanation": "Pharmacists are mandated reporters. Signs of child abuse (fearful child, multiple unexplained bruises in various locations) must be reported to Child Protective Services or law enforcement."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A prescription for dilaudid is written for a long-term care resident of Pleasant Home. It is written for 90 tabs. The nurse would only like 15 tabs for a few days supply. What is the best course of action?",
+      "options": [
+        "A. Dispense 15 tabs and fill the rest within 60 days from the date of issue.",
+        "B. Dispense 15 tabs and fill remaining within 72 hours.",
+        "C. Dispense 15 tabs after notifying the prescriber.",
+        "D. Dispense 90 tabs"
+      ],
+      "answer": "A. Dispense 15 tabs and fill the rest within 60 days from the date of issue.",
+      "explanation": "For Schedule II controlled substances dispensed to long-term care facility (LTCF) patients, a partial fill is permitted. The remaining quantity must be dispensed within 60 days of the original prescription date."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Who can sign Forms 222?\n1. The person who signed the last DEA registration\n2. The person with the POA\n3. All pharmacists\n4. All pharmacy interns",
+      "options": [
+        "A. 1 and 2 only",
+        "B. 1 and 4 only",
+        "C. 2 and 3 only",
+        "D. 3 and 4 only"
+      ],
+      "answer": "A. 1 and 2 only",
+      "explanation": "DEA Form 222 can only be signed by the individual who signed the most recent DEA registration application or a person with a valid Power of Attorney (POA) granted by that individual."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following tasks cannot be performed by a pharmacy technician?",
+      "options": [
+        "A. Pull Lipitor off the shelf, count it, and put it into a bottle",
+        "B. Pull Xanax off the shelf, count it, put it into a bottle",
+        "C. Ask the patient if he/she would like to talk to the pharmacist about his/her new prescription",
+        "D. Reconstitute an Augmentin suspension"
+      ],
+      "answer": "D. Reconstitute an Augmentin suspension",
+      "explanation": "Reconstitution of a suspension is considered a discretionary/professional task that requires pharmacist judgment and must be performed by a pharmacist, not a technician."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A mother is picking up a new antibiotics prescription for her child. Which of the pharmacy staff can provide an offer to counsel?\n1. The pharmacist interns\n2. The pharmacy technicians\n3. The pharmacists\n4. The pharmacy clerk",
+      "options": [
+        "A. 1 and 2",
+        "B. 3 and 4",
+        "C. 1 and 3",
+        "D. 2 and 4"
+      ],
+      "answer": "C. 1 and 3",
+      "explanation": "Only pharmacists and pharmacist interns are authorized to offer and provide patient counseling. Pharmacy technicians and clerks are not licensed to counsel patients."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "ST is a female, 66 years of age, who is having a mammogram procedure, which is billed to her insurance. She works part-time as a hostess at a restaurant near her home. Who can receive PHI from this procedure without additional authorization?\n1. The radiologist who is analyzing the patient's mammogram\n2. The patient's sister\n3. The patient's medical insurance company\n4. The patient's employer",
+      "options": [
+        "A. 1 and 2",
+        "B. 3 and 4",
+        "C. 1 and 3",
+        "D. 2 and 4"
+      ],
+      "answer": "C. 1 and 3",
+      "explanation": "Under HIPAA, PHI can be shared without additional authorization for treatment purposes (the radiologist) and for payment purposes (the insurance company). Family members and employers require patient authorization."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A physician has written an order for Crestor, which is not on the hospital's formulary. The pharmacist will substitute the drug, according to the hospital's therapeutic interchange protocol. Which of the following medications is a reasonable substitution for this drug?",
+      "options": [
+        "A. Nystatin",
+        "B. Vytorin",
+        "C. Bio-statin",
+        "D. Lipitor"
+      ],
+      "answer": "D. Lipitor",
+      "explanation": "Crestor (rosuvastatin) is a statin (HMG-CoA reductase inhibitor). Lipitor (atorvastatin) is also a statin and is the appropriate therapeutic interchange."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which statement is required by law to be on the prescription label of ALL schedule II-IV drugs?",
+      "options": [
+        "A. Caution: federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.",
+        "B. Caution: may cause drowsiness. Use care when driving a car or operating machinery.",
+        "C. Caution: dangerous unless used as directed. Do NOT mix with alcohol or other drugs.",
+        "D. Caution: this is an opioid, and there is a risk of overdose and addiction."
+      ],
+      "answer": "A. Caution: federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.",
+      "explanation": "Federal law (21 CFR 290.5) requires this exact transfer prohibition statement on all Schedule II\u2013IV controlled substance prescription labels."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How long must a pharmacy keep records of the patient's acknowledgement that they have received the notice of privacy practices?",
+      "options": [
+        "A. 3 years",
+        "B. 1 year",
+        "C. 6 years",
+        "D. 30 days"
+      ],
+      "answer": "C. 6 years",
+      "explanation": "Under HIPAA, pharmacies must retain records of patients' acknowledgement of the Notice of Privacy Practices for 6 years from the date of creation or last effective date."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The pharmacy must keep the biennial self-assessment forms for this time period:",
+      "options": [
+        "A. 3 years",
+        "B. 6 years",
+        "C. 1 year",
+        "D. 30 days"
+      ],
+      "answer": "A. 3 years",
+      "explanation": "Under California pharmacy law, the biennial self-assessment forms completed by the PIC must be kept for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist was recently married and decided to change her last name. How long does the pharmacist have to notify the CA Board of her name change?",
+      "options": [
+        "A. 6 months",
+        "B. 45 days",
+        "C. 1 year",
+        "D. 30 days"
+      ],
+      "answer": "D. 30 days",
+      "explanation": "California BOP requires pharmacists to notify the board of any name or address change within 30 days."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How often does a hospital need to perform an inventory of schedule II drugs?",
+      "options": [
+        "A. Monthly",
+        "B. Quarterly",
+        "C. Annually",
+        "D. Biennially"
+      ],
+      "answer": "B. Quarterly",
+      "explanation": "California law requires hospitals to perform an accurate count of Schedule II controlled substances every 3 months (quarterly), with records maintained for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient has clonidine 0.2 mg tablets at her house that she no longer needs. There is no local drug take-back program in her area. How can the pharmacist instruct her to dispose of this medication safely?",
+      "options": [
+        "A. Flush the tabs down the toilet",
+        "B. Mix with water and an undesirable substance (i.e. kitty litter), seal the bottle with tape and dispose of in the trash",
+        "C. Give the tabs to a friend or family member who uses the same strength",
+        "D. Mail the tabs back to the manufacturer"
+      ],
+      "answer": "B. Mix with water and an undesirable substance (i.e. kitty litter), seal the bottle with tape and dispose of in the trash",
+      "explanation": "When no take-back program is available, the FDA recommends mixing non-flushable medications with an undesirable substance (like used coffee grounds or kitty litter), sealing in a container, and disposing in household trash. Clonidine is not on the FDA flush list."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following can be inventoried with an estimated count?",
+      "options": [
+        "A. Unopened bottle of Tylenol with Codeine #4, 500 tabs/bottle",
+        "B. Opened bottle of Concerta, 100 tabs/bottle",
+        "C. Unopened bottles of Marinol, 60 caps/bottle",
+        "D. Open bottle of Provigil, 30 tabs/bottle"
+      ],
+      "answer": "D. Open bottle of Provigil, 30 tabs/bottle",
+      "explanation": "Schedule V substances (like Provigil/modafinil, Schedule IV) in opened containers with 1,000 or fewer units can be estimated. Unopened containers of Schedule III-V and all Schedule II products require exact count."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The CA BOP requires that a pharmacy be equipped with the following items:\n1. A sink with hot and cold water\n2. A central heating system\n3. An accessible restroom\n4. Must be at least 2,000 square feet in size",
+      "options": [
+        "A. 1 and 2",
+        "B. 1 and 4",
+        "C. 1 and 3",
+        "D. 2 and 3"
+      ],
+      "answer": "C. 1 and 3",
+      "explanation": "California BOP requires pharmacies to have a sink with hot and cold running water and an accessible restroom. There is no requirement for a central heating system or a minimum square footage."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist is seeking recognition as an Advanced Practice Pharmacist. Which of the following are requirements for APh recognition?\n1. Obtaining Board Certified Pharmacotherapy Specialist (BCPS) certification\n2. Completing a postgraduate residency program.\n3. Obtaining American Pharmacist Association vaccination certification\n4. Working in a specialty clinic for at least 12 weeks",
+      "options": [
+        "A. 2 and 3",
+        "B. 3 and 4",
+        "C. 1 and 4",
+        "D. 1 and 2"
+      ],
+      "answer": "D. 1 and 2",
+      "explanation": "In California, APh recognition requires obtaining a relevant board certification (such as BCPS) AND completing a postgraduate residency program. Vaccination certification and specialty clinic work alone do not qualify."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the organization's name that a pharmacist can contact for assistance with drug abuse or mental illness?",
+      "options": [
+        "A. Pharmacist Addiction Specialists, run by CA Pharmacist Association",
+        "B. Pharmacist Recovery Program, run by Maximus, INC",
+        "C. Pharmacists-Helping-Pharmacists, run by CA Pharmacists Association",
+        "D. Professionals Addiction Treatment program, run by Maximus, INC"
+      ],
+      "answer": "B. Pharmacist Recovery Program, run by Maximus, INC",
+      "explanation": "The California Pharmacist Recovery Program (PRP) is run by Maximus, Inc. and provides confidential assistance to pharmacists, interns, and technicians dealing with substance abuse or mental health issues."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following are non-licensed employees?",
+      "options": [
+        "A. Pharmacy Clerks",
+        "B. Pharmacist interns",
+        "C. Pharmacy technicians",
+        "D. Pharmacy technicians in training"
+      ],
+      "answer": "A. Pharmacy Clerks",
+      "explanation": "Pharmacy clerks do not require a license from the California BOP. Pharmacist interns, pharmacy technicians, and pharmacy technicians in training all require licensure or registration with the board."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The staff pharmacist is on a 30-minute break for lunch while the pharmacist intern and technician are in the pharmacy. A patient comes to the pick-up window and asks for her new prescription Addyi. The patient says she does not need counseling since her physician already told her how to use the drug. Which of the following would be most appropriate action of the technician?",
+      "options": [
+        "A. Ask the pharmacist intern to counsel the patient",
+        "B. Ask the patient to return when the pharmacist is back",
+        "C. Ask the patient for identification before dispensing",
+        "D. Dispense the drug to the patient"
+      ],
+      "answer": "B. Ask the patient to return when the pharmacist is back",
+      "explanation": "Addyi (flibanserin) is a REMS drug requiring mandatory counseling by a pharmacist. A pharmacist must be present to dispense it. The intern cannot complete this requirement alone, and the technician cannot dispense REMS medications without a pharmacist available."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist-in-charge completed the last self-assessment for her community pharmacy in 2021. When is the next self-assessment due?",
+      "options": [
+        "A. By December 31, 2023",
+        "B. By December 31, 2022",
+        "C. By July 1, 2023",
+        "D. By July 1, 2022"
+      ],
+      "answer": "C. By July 1, 2023",
+      "explanation": "The California BOP requires community pharmacies to complete a self-assessment by July 1st of every odd-numbered year. Since the last was in 2021, the next is due by July 1, 2023."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy receives a call from a retired pharmacist who has recently shut down his pharmacy and kept the pharmacy records in his home. The retired pharmacist is requesting to transfer a prescription on behalf of his former patient. What action should the receiving pharmacist take?",
+      "options": [
+        "A. Contact the BOP",
+        "B. Take the transfer over the phone",
+        "C. Request that the retired pharmacist fax a copy of the prescription",
+        "D. Report the retired pharmacist to the prescriber"
+      ],
+      "answer": "A. Contact the BOP",
+      "explanation": "A retired pharmacist holding pharmacy records at a private residence is not compliant with California record-keeping regulations. The BOP must be notified so they can take appropriate action."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Pharmacists, interns, and technicians must wear name tags that meet the following requirements:\n1. The tag contains their name\n2. The letters are in 10-point font\n3. The tag has to be affixed to the upper right hand side of the staff's shirt\n4. The tag contains their license status",
+      "options": [
+        "A. 2 and 3",
+        "B. 1 and 3",
+        "C. 2 and 4",
+        "D. 1 and 4"
+      ],
+      "answer": "D. 1 and 4",
+      "explanation": "California BOP requires name tags to display the employee's name and their license status (e.g., Pharmacist, Intern, Technician). There are no specific requirements regarding font size or placement on clothing."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The patient has the following medications at home which have expired: hydrocodone-apap, pregabalin, Daytrana, Strattera, sertraline. She asks the pharmacist if she can flush them down the toilet. According to the FDA, it is permissible to flush which of the following medications?",
+      "options": [
+        "A. Daytrana",
+        "B. Sertraline",
+        "C. Strattera",
+        "D. Pregabalin"
+      ],
+      "answer": "A. Daytrana",
+      "explanation": "Daytrana (methylphenidate transdermal patch) is on the FDA's flush list because of the risk of serious harm if misused. Sertraline, Strattera, and pregabalin are not on the FDA flush list and should be disposed of by other means."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following tasks is matched with the correct frequency that it needs to be performed?",
+      "options": [
+        "A. Medication error investigation: within 2 days of the error",
+        "B. Submit dispensing data to CURES: biweekly",
+        "C. Controlled substance inventory: every 3 years",
+        "D. Self-assessment form: every even-numbered year before July 1st"
+      ],
+      "answer": "A. Medication error investigation: within 2 days of the error",
+      "explanation": "California BOP requires medication errors resulting in patient harm to be investigated and documented within 2 business days. CURES data is submitted within 1 working day; CS inventory is biennial (every 2 years); self-assessment is due by July 1 of odd-numbered years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records do NOT need to be kept for 3 years?\n1. Purchase invoices for all prescription drugs\n2. Patient acknowledgement of HIPAA\n3. Record documenting return of drugs to wholesaler or manufacturer\n4. Certificate of completion for continuing education",
+      "options": [
+        "A. 1 and 2",
+        "B. 2 and 4",
+        "C. 3 only",
+        "D. 2 and 4"
+      ],
+      "answer": "C. Record documenting return of drugs to wholesaler or manufacturer",
+      "explanation": "Patient HIPAA acknowledgements must be kept for 6 years (not 3). Records of drug returns to wholesalers must be kept for 3 years. CE certificates must be kept for 4 years per BOP requirements."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "An outpatient pharmacy operates within a large medical building. Drugs ordered in bulk are delivered to the pharmacy and stored in a locked storage room when the pharmacy is closed. This is acceptable if the following condition is met:",
+      "options": [
+        "A. A physician supervisor is granted access to the storage room in case of emergencies",
+        "B. The individual delivering the drugs must provide the delivery receipt to an on-site supervisor",
+        "C. Only pharmacy personnel have access to the storage room after the drugs have been delivered",
+        "D. The storage area must be secure and located in the same building as the pharmacy"
+      ],
+      "answer": "D. The storage area must be secure and located in the same building as the pharmacy",
+      "explanation": "California BOP allows off-hours delivery of bulk medications if the storage area is secure and located within the same building as the pharmacy. Only pharmacy personnel may access the storage, but the key requirement is the same-building location."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In a community pharmacy setting, how many clerks is a pharmacist allowed to supervise at any one time?",
+      "options": [
+        "A. Two",
+        "B. One",
+        "C. There is no set maximum",
+        "D. Three"
+      ],
+      "answer": "C. There is no set maximum",
+      "explanation": "California BOP does not set a maximum number of pharmacy clerks that a pharmacist may supervise. However, limits do apply for interns (2) and technicians based on workload."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy filed a DEA form 106. According to California law, how long must the pharmacy keep a copy of this report?",
+      "options": [
+        "A. 6 years",
+        "B. 3 years",
+        "C. 1 year",
+        "D. 30 days"
+      ],
+      "answer": "B. 3 years",
+      "explanation": "DEA Form 106 (theft or significant loss of controlled substances) must be retained by the pharmacy for 3 years per both federal DEA and California BOP requirements."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Who is allowed to have a key to the secure pharmacy area?",
+      "options": [
+        "A. Technicians",
+        "B. Interns",
+        "C. Store manager",
+        "D. Pharmacists"
+      ],
+      "answer": "D. Pharmacists",
+      "explanation": "Under California law, only pharmacists are permitted to hold a key to the secure pharmacy area. Technicians, interns, and store managers may not have keys."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A non-scheduled drug will become re-classified as a controlled substance, effective Jan 30, 2022. When does inventory need to be taken for this drug?",
+      "options": [
+        "A. On Jan 30, 2022",
+        "B. By Mar 30, 2022",
+        "C. During the regular biennial inventory",
+        "D. On Feb 3, 2022"
+      ],
+      "answer": "A. On Jan 30, 2022",
+      "explanation": "DEA regulations require that a physical inventory be taken on the date a drug becomes rescheduled as a controlled substance \u2014 in this case, on the effective date of Jan 30, 2022."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The owner of a small independent pharmacy has continually lost business due to the rise in big chain pharmacies in the area, and has decided to declare bankruptcy. Within what time period must he report the bankruptcy to the board?",
+      "options": [
+        "A. 15 days",
+        "B. Immediately",
+        "C. 7 days",
+        "D. 3 days"
+      ],
+      "answer": "B. Immediately",
+      "explanation": "California BOP requires immediate notification when a pharmacy owner files for bankruptcy, as this directly affects the operation and legal status of the pharmacy."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following resources that consumers and healthcare providers can refer to in order to be up to date with current drug shortages and methods to manage during the shortage?\n1. Food and Drug Administration\n2. Lexicomp\n3. American Society of Health-System Pharmacists\n4. Physicians' Desk Reference",
+      "options": [
+        "A. 1 and 2",
+        "B. 2 and 3",
+        "C. 1 and 3",
+        "D. 2 and 4"
+      ],
+      "answer": "C. 1 and 3",
+      "explanation": "The FDA and ASHP are the two primary, authoritative resources for current drug shortage information and management strategies. Lexicomp and the PDR are clinical references, not drug shortage tracking resources."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following statements about continuing education for pharmacists is correct?",
+      "options": [
+        "A. All new licensees are exempt from the first two CE renewal cycles",
+        "B. The pharmacist must complete 30 hours of CE every 2 years",
+        "C. The pharmacist must complete 20 hours of CE every 2 years",
+        "D. Documentation of continuing education must be kept for 3 years"
+      ],
+      "answer": "B. The pharmacist must complete 30 hours of CE every 2 years",
+      "explanation": "California BOP requires pharmacists to complete 30 hours of continuing education every 2-year renewal period. CE documentation must be kept for 4 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy special ordered Vivotif capsules for a patient who did not pick up the medication. The pharmacy then returned the capsules to the wholesaler. How long does the pharmacy need to keep the record of the returned drugs?",
+      "options": [
+        "A. 30 days",
+        "B. 1 year",
+        "C. 3 years",
+        "D. 6 years"
+      ],
+      "answer": "C. 3 years",
+      "explanation": "Records documenting drug returns to wholesalers or manufacturers must be retained by the pharmacy for 3 years under California BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is the correct procedure for a technician checking technician program in a hospital?",
+      "options": [
+        "A. The first technician will compound the medication, the second technician will validate accuracy",
+        "B. The first technician will fill the unit-dose medication drawer, and the second technician will validate the accuracy of the filling.",
+        "C. The first technician will verbally accept an order from the prescriber, and the second technician will enter the order into the computer.",
+        "D. The first technician will transport the cassette to the nursing station, and the second technician will verify the drug against the medication administration record."
+      ],
+      "answer": "B. The first technician will fill the unit-dose medication drawer, and the second technician will validate the accuracy of the filling.",
+      "explanation": "The tech-check-tech (TCT) program in California hospitals allows one technician to fill unit-dose medication drawers and a second trained technician to verify the fill accuracy \u2014 but only in hospitals with an active clinical pharmacy program."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient calls the pharmacy and asks how she can properly return or throw away an unused container of Percocet. Which of the following is the preferred method to dispose of Percocet?",
+      "options": [
+        "A. Mail the Percocet tablets to a DEA authorized collector through a mail-back program.",
+        "B. Mail the Percocet tablets to the local DEA office in an unmarked package.",
+        "C. Dispose of the Percocet tablets by flushing them down the toilet.",
+        "D. Mail the Percocet tablets to the local pharmacy"
+      ],
+      "answer": "A. Mail the Percocet tablets to a DEA authorized collector through a mail-back program.",
+      "explanation": "The preferred method of controlled substance disposal is using a DEA-authorized take-back program or mail-back program. Flushing is a secondary option if no take-back program is available."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Patient profiles must be kept for this time period:",
+      "options": [
+        "A. 30 days from the last fill",
+        "B. 1 year from the last fill",
+        "C. 3 years from the first fill",
+        "D. 3 years from the last fill"
+      ],
+      "answer": "B. 1 year from the last fill",
+      "explanation": "California BOP requires patient profiles to be maintained for a minimum of 1 year from the date of the last prescription filled."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Who is responsible for completing the pharmacy self-assessment forms?",
+      "options": [
+        "A. The pharmacist in charge",
+        "B. The pharmacy owner",
+        "C. The human resources manager",
+        "D. The store manager, if the pharmacy is located within a chain store setting"
+      ],
+      "answer": "A. The pharmacist in charge",
+      "explanation": "The Pharmacist-in-Charge (PIC) is solely responsible for completing and signing the pharmacy self-assessment forms required by the California BOP."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist-in-charge is asked to be the PIC at a second pharmacy location. The pharmacies are 67 miles apart. What is the MOST appropriate action for the pharmacist to take?",
+      "options": [
+        "A. Decline the position at one of the pharmacies",
+        "B. Undergo additional training before acting as the PIC for two pharmacies",
+        "C. Notify the BOP",
+        "D. Enter into a contractual agreement with the two pharmacies"
+      ],
+      "answer": "A. Decline the position at one of the pharmacies",
+      "explanation": "California law does not permit a pharmacist to serve as PIC at more than one pharmacy at a time. The pharmacist must decline the position at one of the locations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How many days does a pharmacy have to notify the board that the pharmacist-in-charge has been changed?",
+      "options": [
+        "A. Within 30 days",
+        "B. Immediately",
+        "C. The board does not need to be notified",
+        "D. Within 60 days"
+      ],
+      "answer": "A. Within 30 days",
+      "explanation": "California BOP must be notified within 30 days whenever there is a change in the pharmacy's Pharmacist-in-Charge."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A 75-year-old patient was taking clopidogrel, ASA, an ace inhibitor, a beta-blocker, a loop diuretic, and potassium chloride. The patient recently expired and the family is asking the pharmacist what to do with his medications. Choose the MOST appropriate option for disposing these drugs:",
+      "options": [
+        "A. Place the drugs in a DEA-authorized collection receptacle",
+        "B. Remove the patient identifying information and put them in the trash.",
+        "C. Flush the pills down the toilet and throw the empty containers in the trash.",
+        "D. Bring the drugs back to the pharmacy since they are unused."
+      ],
+      "answer": "A. Place the drugs in a DEA-authorized collection receptacle",
+      "explanation": "The preferred and most appropriate disposal method for unused medications, especially controlled substances like clopidogrel (with cardiac history) is a DEA-authorized drug collection receptacle. This is the safest and most environmentally responsible method."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records do NOT need to be kept for three years?\n1. DEA forms 222\n2. PSE, ephedrine, phenylpropanolamine and norpseudoephedrine sale logs\n3. Hospital pharmacy chart order records for controlled substances\n4. Theft and loss reports of controlled substances",
+      "options": [
+        "A. 3 and 4",
+        "B. 1 and 2",
+        "C. 1 and 3",
+        "D. 2 and 3"
+      ],
+      "answer": "D. 2 and 3",
+      "explanation": "PSE/ephedrine logs must be kept for 2 years (not 3). Hospital pharmacy chart orders for controlled substances must be kept for 2 years. DEA Form 222 and theft/loss reports (Form 106) must be kept for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When does the DEA require pharmacies to perform a drug inventory of controlled substances?\n1. When the pharmacy first opens for business\n2. Every 3 years\n3. A perpetual inventory must be maintained\n4. When a drug becomes re-classified as a controlled substance",
+      "options": [
+        "A. 3 and 4",
+        "B. 1 and 2",
+        "C. 1 and 4",
+        "D. 2 and 3"
+      ],
+      "answer": "C. 1 and 4",
+      "explanation": "DEA requires a controlled substance inventory when a pharmacy first opens and when a drug is newly rescheduled as a controlled substance. The biennial inventory is required every 2 years (not 3), and a perpetual inventory is not a DEA requirement."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If a non-resident pharmacy issues a recall notice on a sterile compounded drug they must contact the recipient pharmacy regarding the recall within what time period:",
+      "options": [
+        "A. 7 days",
+        "B. 12 hours",
+        "C. 1 day",
+        "D. 3 days"
+      ],
+      "answer": "C. 1 day",
+      "explanation": "California law requires non-resident compounding pharmacies to notify recipient pharmacies of a sterile compounded drug recall within 1 calendar day of the recall being issued."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The new pharmacist-in-charge conducted the controlled drug inventory and filed the records with the non-controlled inventory records in a folder called \"Drug Inventories.\" Which of the following statements is correct?",
+      "options": [
+        "A. This is acceptable if the schedule II inventory is readily accessible",
+        "B. This is not acceptable since schedule II records should be kept separate",
+        "C. This is acceptable if all schedule II inventory records are labeled with a \"Red C\"",
+        "D. This is not acceptable because non-controlled substance inventories should be kept separate"
+      ],
+      "answer": "B. This is not acceptable since schedule II records should be kept separate",
+      "explanation": "Federal DEA regulations require that Schedule II records be maintained separately from all other records, including Schedule III\u2013V and non-controlled substance records."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A relief pharmacist will be filling in for the PIC of a community pharmacy for 3 days. The PIC cannot physically hand the key over to the relief pharmacist, so he left the key with the store manager in a signed/sealed envelope within a tamper-evident container. The store manager was instructed not to open the envelope and only give it to the relief pharmacist to open the pharmacy. Is it permissible to hand the key over in this manner?",
+      "options": [
+        "A. No, because the PIC did not grant POA to the relief pharmacist",
+        "B. No, because the PIC must personally hand the key to the relief pharmacist",
+        "C. Yes, because the PIC placed the key into a tamper-evident container",
+        "D. Yes, because the store manager can have a pharmacy key"
+      ],
+      "answer": "C. Yes, because the PIC placed the key into a tamper-evident container",
+      "explanation": "California BOP allows the pharmacy key to be transferred via a tamper-evident container if the PIC cannot personally hand it over. This preserves the integrity of secure pharmacy access while allowing operational continuity."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The PIC caught the other staff pharmacist trying to put an open bottle of Tramadol into her purse during a shift. When the PIC confronted her, she admitted becoming addicted after having a recent surgery. What is the most appropriate action the PIC should take?",
+      "options": [
+        "A. Do not report the theft since the medication is not controlled. Refer her to the pharmacist recovery program.",
+        "B. Report the theft and chemical impairment to the board within 30 days",
+        "C. Report the theft and chemical impairment to the board within 14 days",
+        "D. Report the theft and chemical impairment to the board within 7 days"
+      ],
+      "answer": "C. Report the theft and chemical impairment to the board within 14 days",
+      "explanation": "Tramadol is a Schedule IV controlled substance. Theft of controlled substances and chemical impairment of pharmacy staff must be reported to the California BOP within 14 days."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Over 3,000 collection sites nationwide participate in a national program to collect unwanted prescription and non-prescription drugs. What is the name of this program?",
+      "options": [
+        "A. Take-back",
+        "B. Take-control",
+        "C. reUse- and reCycle",
+        "D. Take-away"
+      ],
+      "answer": "A. Take-back",
+      "explanation": "The DEA's National Prescription Drug Take-Back program collects unwanted medications at authorized sites across the country to prevent drug diversion and environmental contamination."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Select the correct requirement for licensure as a pharmacist in California:",
+      "options": [
+        "A. Must have completed 1,500 hours of pharmacy practice experience",
+        "B. Must have a doctor of pharmacy degree",
+        "C. Must have passed an ethics course",
+        "D. Must be at least 21 years of age"
+      ],
+      "answer": "A. Must have completed 1,500 hours of pharmacy practice experience",
+      "explanation": "California BOP requires applicants for pharmacist licensure to have completed 1,500 hours of supervised pharmacy practice experience as an intern."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The Tech-check-tech arrangement is allowed in general acute hospitals if the following conditions are met:",
+      "options": [
+        "A. If the supervising tech has attained an A.A. degree and is listed as a \"supervisory technician\" with the state board",
+        "B. If the hospital has an ongoing clinical pharmacy program where pharmacists are in the patient care areas",
+        "C. If the technicians involved have been working for at least 10 years in the same hospital",
+        "D. If the technicians involved are planning to attend pharmacy school"
+      ],
+      "answer": "B. If the hospital has an ongoing clinical pharmacy program where pharmacists are in the patient care areas",
+      "explanation": "California law (B&P Code 4115.5) permits the tech-check-tech program in general acute care hospitals that maintain an ongoing clinical pharmacy program with pharmacists actively engaged in patient care areas."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which statement is true regarding the Pharmacists Recovery Program?",
+      "options": [
+        "A. It is available to pharmacists, interns, and technicians",
+        "B. Enrollment is not voluntary",
+        "C. The board can refer people to the program",
+        "D. It is free of charge, but is not confidential"
+      ],
+      "answer": "C. The board can refer people to the program",
+      "explanation": "The California BOP may refer pharmacists, interns, and technicians to the Pharmacist Recovery Program. Enrollment is voluntary, it does have a cost, but it is confidential."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "An independent pharmacy owner does not have enough space to store all of the required records on-site, so she has rented an off-site storage space to keep the records for the required time periods. This is permissible if the following conditions are met:\n1. She has obtained an approved waiver from the Board for off-site storage of records.\n2. The pharmacy must be able to produce the records within 72 hours if requested by the Board.\n3. The storage area must be secure.\n4. The off-site storage can be no further than 50 miles away from the pharmacy",
+      "options": [
+        "A. 1 and 2",
+        "B. 2 and 4",
+        "C. 2 and 3",
+        "D. 1 and 3"
+      ],
+      "answer": "D. 1 and 3",
+      "explanation": "Off-site storage of pharmacy records is permissible in California if: (1) a BOP waiver has been obtained, and (3) the storage area is secure. There is no 72-hour retrieval requirement or 50-mile restriction in the BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist moves to a new apartment in the same city and county on March 6th. It is now June 5th, and she has not yet notified the board of her change in address. Choose the correct statement:",
+      "options": [
+        "A. She is late, she had 30 days to notify the board of address change",
+        "B. She is late, she had 60 days to notify the board of the address change",
+        "C. She does not need to notify the board since the city of her residence did not change",
+        "D. She does not need to notify the board since the county of her residence did not change"
+      ],
+      "answer": "A. She is late, she had 30 days to notify the board of address change",
+      "explanation": "California BOP requires pharmacists to notify the board of any change of address within 30 days of the change, regardless of whether the city or county changed."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "An Advanced Practice Pharmacist can perform all of the following EXCEPT:",
+      "options": [
+        "A. Register with the DEA to adjust controlled substance therapy",
+        "B. Perform patient assessments",
+        "C. Order drug therapy-related lab tests",
+        "D. Prescribe up to a year of PrEP without a protocol"
+      ],
+      "answer": "D. Prescribe up to a year of PrEP without a protocol",
+      "explanation": "California APhs can perform assessments, order labs, and adjust therapies under a protocol, but they cannot independently prescribe PrEP for up to a year without a protocol. Independent prescribing authority remains limited."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Choose the correct statement concerning the proper disposal of a used fentanyl patch:",
+      "options": [
+        "A. Flush the fentanyl patch down the toilet",
+        "B. Fold the patch in half, mix with coffee grounds and discard in the regular trash",
+        "C. Return used patches to the manufacturer in a sealed container",
+        "D. Return the used patches to the pharmacy in a sealed container"
+      ],
+      "answer": "A. Flush the fentanyl patch down the toilet",
+      "explanation": "Used fentanyl patches are on the FDA's flush list due to the risk of accidental exposure or misuse. The FDA recommends immediately flushing used fentanyl patches down the toilet."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy sells small amounts of compounded drugs to an OB-GYN office in the same medical building. Occasionally, they sell drugs to other independent pharmacies up the street when it has run out of a medication. How long does the pharmacy need to keep the records documenting these drug sales?",
+      "options": [
+        "A. 6 years",
+        "B. 3 years",
+        "C. 1 year",
+        "D. 30 days"
+      ],
+      "answer": "B. 3 years",
+      "explanation": "Records of pharmacy-to-pharmacy or pharmacy-to-prescriber drug sales must be retained for 3 years under California BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A patient has been using Qnasl for the past month. She calls in a refill of the medication. When she arrives at the pharmacy, the prescription is filled and checked, but the pharmacist is on lunch. What is the MOST appropriate action for the technician to take?",
+      "options": [
+        "A. Do not dispense, no medications can be dispensed if a pharmacist is not available in the pharmacy",
+        "B. Do not dispense because the pharmacist needs to counsel the patient",
+        "C. Dispense because the medication is a refill, and it has been checked by the pharmacist",
+        "D. Dispense if a pharmacy intern is available to counsel the patient"
+      ],
+      "answer": "C. Dispense because the medication is a refill, and it has been checked by the pharmacist",
+      "explanation": "For a prescription refill that has already been checked by a pharmacist, a technician may dispense the medication without additional counseling. Counseling is required for new prescriptions, not refills when the patient declines or is already familiar with the medication."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Pharmacies can donate medications to a county-approved drug repository and distribution program. Which of the following is correct regarding a drug repository and distribution program?",
+      "options": [
+        "A. The pharmacy that is distributing donated drugs to low-income patients must establish eligibility requirements.",
+        "B. Donated medications can be integrated with the pharmacy's other drug inventory.",
+        "C. Controlled substances are permitted as a part of the drug repository and donation program.",
+        "D. Low-income patients cannot be charged more than $1 for a prescription filled with a donated drug."
+      ],
+      "answer": "A. The pharmacy that is distributing donated drugs to low-income patients must establish eligibility requirements.",
+      "explanation": "Under California law, pharmacies distributing donated medications must establish patient eligibility criteria. Donated drugs cannot be mixed with regular inventory, controlled substances are excluded, and pharmacies may charge a dispensing fee."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "An individual with a GED or equivalent can become licensed as a pharmacy technician if which of the following requirements are met?",
+      "options": [
+        "A. None of the answers are correct",
+        "B. Received certification from the pharmacy technician certification board",
+        "C. Received an associated degree from any field of study",
+        "D. Worked as a clerk in a pharmacy for 2 years"
+      ],
+      "answer": "B. Received certification from the pharmacy technician certification board",
+      "explanation": "In California, an applicant with a GED (rather than a high school diploma) can qualify for pharmacy technician licensure if they hold a national certification from PTCB or ExCPT."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "All prescriptions must be kept by the pharmacy for this time period:",
+      "options": [
+        "A. 6 years",
+        "B. 3 years",
+        "C. 1 year",
+        "D. 30 days"
+      ],
+      "answer": "B. 3 years",
+      "explanation": "California BOP requires all prescription records to be retained for a minimum of 3 years from the date of dispensing."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following people is permitted to perform the non-discretionary tasks of removing stock from the shelves, counting, and labeling a bottle?",
+      "options": [
+        "A. Pharmacy clerk",
+        "B. Shadowing pre-pharmacy student",
+        "C. Pharmacy technician",
+        "D. Store manager"
+      ],
+      "answer": "C. Pharmacy technician",
+      "explanation": "Only licensed pharmacy technicians (and interns under supervision) are permitted to perform non-discretionary tasks such as pulling stock, counting, and labeling. Clerks, store managers, and shadowing students may not perform these tasks."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Records documenting medication errors must be kept by the pharmacy for this time period:",
+      "options": [
+        "A. 4 years",
+        "B. 30 days",
+        "C. 1 year",
+        "D. 3 years"
+      ],
+      "answer": "C. 1 year",
+      "explanation": "California BOP requires pharmacies to retain records of medication errors for a minimum of 1 year."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How many interns can a community pharmacist supervise at any one time?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "B. 2",
+      "explanation": "California BOP limits community pharmacists to supervising a maximum of 2 pharmacist interns at any one time."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The California BOP requires that a pharmacy have policies and procedures in place for which of the following items?",
+      "options": [
+        "A. The action to be taken if an employee has engaged in drug diversion",
+        "B. The action to be taken when the pharmacy is closed for legal holidays",
+        "C. Operation of the pharmacy during the temporary absence of the lead pharmacy technician",
+        "D. The disciplinary action to take if a pharmacist has a conscientious objection to dispensing a drug"
+      ],
+      "answer": "A. The action to be taken if an employee has engaged in drug diversion",
+      "explanation": "California BOP requires pharmacies to have written policies and procedures addressing employee drug diversion, including how to handle and report such incidents."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Purchase invoices for all prescription drugs must be kept by the pharmacy for this time period:",
+      "options": [
+        "A. 30 days",
+        "B. 6 years",
+        "C. 1 year",
+        "D. 3 years"
+      ],
+      "answer": "D. 3 years",
+      "explanation": "Purchase invoices for prescription drugs must be retained by the pharmacy for 3 years under California BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Completed DEA forms 222 and Power of Attorney documents to order controlled substances must be kept by the pharmacy for this time period:",
+      "options": [
+        "A. 30 days",
+        "B. 1 year",
+        "C. 2 years",
+        "D. 3 years"
+      ],
+      "answer": "D. 3 years",
+      "explanation": "DEA Form 222 (order forms for Schedule II substances) and Power of Attorney documents must be retained for 3 years from the date of execution under federal DEA regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is an acceptable method of filling prescriptions?",
+      "options": [
+        "A. One file for schedule II drugs, a second file for schedule III-V drugs, a third file for non-controlled drugs",
+        "B. One file for schedule II-V and non-controlled drugs, a red \"C\" must be stamped on the schedule II-V",
+        "C. One file for schedule II-V drugs, a second file for non-controlled drugs",
+        "D. One file for schedule II drugs, a second file for schedule III-V and non-controlled drugs; a red \"C\" must be stamped on the schedule II drugs"
+      ],
+      "answer": "A. One file for schedule II drugs, a second file for schedule III-V drugs, a third file for non-controlled drugs",
+      "explanation": "The DEA's 3-file system (Schedule II separate, Schedule III-V together, non-controlled separate) is one acceptable filing method. A 2-file system is also acceptable if a red \"C\" is stamped on controlled substances filed with non-controlled substances."
+    }
+  ]
+}

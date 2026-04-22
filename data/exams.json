@@ -19,5 +19,19 @@
     "description": "A quick test covering biology, chemistry, physics, and general science.",
     "timeLimit": 5,
     "passingScore": 60
+  },
+  {
+    "id": "cpje-clinical-questions",
+    "title": "CPJE Clinical Questions",
+    "description": "From study guide.pdf.",
+    "timeLimit": 5,
+    "passingScore": 60
+  },
+  {
+    "id": "cpje-law-questions",
+    "title": "CPJE Law Questions",
+    "description": "From study guide.pdf.",
+    "timeLimit": 5,
+    "passingScore": 60
   }
 ]
