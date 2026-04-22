@@ -456,7 +456,7 @@
         "C. Amifostine",
         "D. Mannitol"
       ],
-      "answer": "A. IV (IV fluids, amifostine, mannitol)",
+      "answer": "A. IV",
       "explanation": "Cisplatin-induced nephrotoxicity is prevented and treated with IV fluids, amifostine (Ethyol), and mannitol."
     },
     {
@@ -468,18 +468,18 @@
         "C. Emtricitabine",
         "D. TDF"
       ],
-      "answer": "A. Elvitegravir (+ Cobicistat + Emtricitabine + TDF)",
+      "answer": "A. Elvitegravir",
       "explanation": "Stribild is a fixed-dose combination containing elvitegravir (integrase inhibitor), cobicistat (booster), emtricitabine (NRTI), and tenofovir disoproxil fumarate (NRTI)."
     },
     {
       "type": "multiple-choice",
       "question": "HLA-B*5701 positive =",
       "options": [
-        "A. Do not use abacavir",
+        "A. Abacavir",
         "B. Epzicom (abacavir + lamivudine)",
         "C. Trizivir (abacavir + lamivudine + zidovudine)"
       ],
-      "answer": "A. Do not use abacavir",
+      "answer": "A. Abacavir",
       "explanation": "Patients who test positive for HLA-B*5701 have a high risk of a serious hypersensitivity reaction to abacavir and should not receive it or any combination product containing abacavir."
     },
     {
