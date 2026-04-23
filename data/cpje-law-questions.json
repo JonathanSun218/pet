@@ -1,8 +1,8 @@
 {
   "id": "cpje-law-questions",
-  "title": "CPJE - Law",
-  "description": "California pharmacy law questions covering regulations, DEA requirements, Board of Pharmacy rules, and HIPAA.",
-  "timeLimit": 1,
+  "title": "CPJE - UWorld Pharmacy Operations",
+  "description": "Pharmacy operations questions from UWorld",
+  "timeLimit": 60,
   "passingScore": 70,
   "questions": [
     {
@@ -237,29 +237,29 @@
       "type": "multiple-choice",
       "question": "What is the organization's name that a pharmacist can contact for assistance with drug abuse or mental illness?",
       "options": [
-        "Pharmacist Addiction Specialists, run by CA Pharmacist Association",
-        "Pharmacist Recovery Program, run by Maximus, INC",
-        "Pharmacists-Helping-Pharmacists, run by CA Pharmacists Association",
-        "Professionals Addiction Treatment program, run by Maximus, INC"
+        "Pharmacist Addiction Specialists, run by CA Pharmacists Association",
+        "Pharmacist Recovery Program, run by Maximus, Inc.",
+        "Professionals Addiction Treatment program, run by Maximus, Inc.",
+        "Pharmacists-Helping-Pharmacists, run by CA Pharmacists Association"
       ],
-      "answer": "Pharmacist Recovery Program, run by Maximus, INC",
+      "answer": "Pharmacist Recovery Program, run by Maximus, Inc.",
       "explanation": "The California Pharmacist Recovery Program (PRP) is run by Maximus, Inc. and provides confidential assistance to pharmacists, interns, and technicians dealing with substance abuse or mental health issues."
     },
     {
       "type": "multiple-choice",
       "question": "Which of the following are non-licensed employees?",
       "options": [
-        "Pharmacy Clerks",
+        "Pharmacy clerks",
         "Pharmacist interns",
         "Pharmacy technicians",
-        "Pharmacy technicians in training"
+        "Pharmacy technician trainees"
       ],
       "answer": "Pharmacy Clerks",
-      "explanation": "Pharmacy clerks do not require a license from the California BOP. Pharmacist interns, pharmacy technicians, and pharmacy technicians in training all require licensure or registration with the board."
+      "explanation": "Pharmacy clerks do not require a license from the California BOP. Pharmacist interns, pharmacy technicians, and pharmacy technician trainees all require licensure or registration with the board."
     },
     {
       "type": "multiple-choice",
-      "question": "The staff pharmacist is on a 30-minute break for lunch while the pharmacist intern and technician are in the pharmacy. A patient comes to the pick-up window and asks for her new prescription Addyi. The patient says she does not need counseling since her physician already told her how to use the drug. Which of the following would be most appropriate action of the technician?",
+      "question": "The staff pharmacist is on a 30-minute break for lunch while the pharmacist intern and technician are in the pharmacy. A patient comes to the pick-up window and asks for her new prescription Addyi. The patient says she does not need counseling since her physician already told her how to use the drug. Which of the following would be the MOST appropriate action of the technician?",
       "options": [
         "Ask the pharmacist intern to counsel the patient",
         "Ask the patient to return when the pharmacist is back",
@@ -285,12 +285,12 @@
       "type": "multiple-choice",
       "question": "A pharmacy receives a call from a retired pharmacist who has recently shut down his pharmacy and kept the pharmacy records in his home. The retired pharmacist is requesting to transfer a prescription on behalf of his former patient. What action should the receiving pharmacist take?",
       "options": [
-        "Contact the BOP",
+        "Contact the board of pharmacy",
         "Take the transfer over the phone",
-        "Request that the retired pharmacist fax a copy of the prescription",
-        "Report the retired pharmacist to the prescriber"
+        "Report the retired pharmacist to the prescriber",
+        "Request that the retired pharmacist fax a copy of the prescription"
       ],
-      "answer": "Contact the BOP",
+      "answer": "Contact the board of pharmacy",
       "explanation": "A retired pharmacist holding pharmacy records at a private residence is not compliant with California record-keeping regulations. The BOP must be notified so they can take appropriate action."
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "The patient has the following medications at home which have expired: hydrocodone-apap, pregabalin, Daytrana, Strattera, sertraline. She asks the pharmacist if she can flush them down the toilet. According to the FDA, it is permissible to flush which of the following medications?",
+      "question": "A patient has the following medications at home which have expired: hydrocodone-acetaminophen, pregabalin, Daytrana, Strattera, sertraline. She asks the pharmacist if she can flush them down the toilet. According to the FDA, it is permissible to flush which of the following medications:",
       "options": [
         "Daytrana",
         "Sertraline",
@@ -381,24 +381,24 @@
       "type": "multiple-choice",
       "question": "Who is allowed to have a key to the secure pharmacy area?",
       "options": [
-        "Technicians",
+        "Pharmacists",
         "Interns",
-        "Store manager",
-        "Pharmacists"
+        "Technicians",
+        "Store manager"
       ],
       "answer": "Pharmacists",
       "explanation": "Under California law, only pharmacists are permitted to hold a key to the secure pharmacy area. Technicians, interns, and store managers may not have keys."
     },
     {
       "type": "multiple-choice",
-      "question": "A non-scheduled drug will become re-classified as a controlled substance, effective Jan 30, 2022. When does inventory need to be taken for this drug?",
+      "question": "A non-scheduled drug will become re-classified as a controlled substance, effective Jan 30, 2025. When does inventory need to be taken for this drug?",
       "options": [
-        "On Jan 30, 2022",
-        "By Mar 30, 2022",
+        "On Jan 30, 2025",
+        "By Mar 30, 2025",
         "During the regular biennial inventory",
-        "On Feb 3, 2022"
+        "On Feb 3, 2025"
       ],
-      "answer": "On Jan 30, 2022",
+      "answer": "On Jan 30, 2025",
       "explanation": "DEA regulations require that a physical inventory be taken on the date a drug becomes rescheduled as a controlled substance \u2014 in this case, on the effective date of Jan 30, 2022."
     },
     {
@@ -415,7 +415,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "Which of the following resources that consumers and healthcare providers can refer to in order to be up to date with current drug shortages and methods to manage during the shortage?\n1. Food and Drug Administration\n2. Lexicomp\n3. American Society of Health-System Pharmacists\n4. Physicians' Desk Reference",
+      "question": "Which of the following are resources that consumers and healthcare providers can refer to in order to be up to date with current drug shortages and methods to manage during the shortage?\n1. Food and Drug Administration\n2. Lexicomp\n3. American Society of Health-System Pharmacists\n4. Physicians' Desk Reference",
       "options": [
         "1 and 2",
         "2 and 3",
@@ -465,12 +465,12 @@
       "type": "multiple-choice",
       "question": "A patient calls the pharmacy and asks how she can properly return or throw away an unused container of Percocet. Which of the following is the preferred method to dispose of Percocet?",
       "options": [
-        "Mail the Percocet tablets to a DEA authorized collector through a mail-back program.",
-        "Mail the Percocet tablets to the local DEA office in an unmarked package.",
-        "Dispose of the Percocet tablets by flushing them down the toilet.",
+        "Mail the Percocet tablets to a DEA authorized collector through a mail-back program",
+        "Mail the Percocet tablets to the local DEA office in an unmarked package",
+        "Dispose of the Percocet tablets by flushing them down the toilet",
         "Mail the Percocet tablets to the local pharmacy"
       ],
-      "answer": "Mail the Percocet tablets to a DEA authorized collector through a mail-back program.",
+      "answer": "Mail the Percocet tablets to a DEA authorized collector through a mail-back program",
       "explanation": "The preferred method of controlled substance disposal is using a DEA-authorized take-back program or mail-back program. Flushing is a secondary option if no take-back program is available."
     },
     {
@@ -489,22 +489,22 @@
       "type": "multiple-choice",
       "question": "Who is responsible for completing the pharmacy self-assessment forms?",
       "options": [
-        "The pharmacist in charge",
+        "The pharmacist-in-charge",
         "The pharmacy owner",
         "The human resources manager",
         "The store manager, if the pharmacy is located within a chain store setting"
       ],
-      "answer": "The pharmacist in charge",
+      "answer": "The pharmacist-in-charge",
       "explanation": "The Pharmacist-in-Charge (PIC) is solely responsible for completing and signing the pharmacy self-assessment forms required by the California BOP."
     },
     {
       "type": "multiple-choice",
       "question": "A pharmacist-in-charge is asked to be the PIC at a second pharmacy location. The pharmacies are 67 miles apart. What is the MOST appropriate action for the pharmacist to take?",
       "options": [
-        "Decline the position at one of the pharmacies",
+        "Notify the board of pharmacy",
         "Undergo additional training before acting as the PIC for two pharmacies",
-        "Notify the BOP",
-        "Enter into a contractual agreement with the two pharmacies"
+        "Enter into a contractual agreement with the two pharmacies",
+        "Decline the position at one of the pharmacies"
       ],
       "answer": "Decline the position at one of the pharmacies",
       "explanation": "California law does not permit a pharmacist to serve as PIC at more than one pharmacy at a time. The pharmacist must decline the position at one of the locations."
@@ -523,7 +523,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "A 75-year-old patient was taking clopidogrel, ASA, an ace inhibitor, a beta-blocker, a loop diuretic, and potassium chloride. The patient recently expired and the family is asking the pharmacist what to do with his medications. Choose the MOST appropriate option for disposing these drugs:",
+      "question": "A 75-year-old patient was taking clopidogrel, aspirin, an ACE inhibitor, a beta-blocker, a loop diuretic, and potassium chloride. The patient recently expired and the family is asking the pharmacist what to do with his medications. Choose the MOST appropriate option for disposing these drugs:",
       "options": [
         "Place the drugs in a DEA-authorized collection receptacle",
         "Remove the patient identifying information and put them in the trash.",
@@ -559,12 +559,12 @@
     },
     {
       "type": "multiple-choice",
-      "question": "If a non-resident pharmacy issues a recall notice on a sterile compounded drug they must contact the recipient pharmacy regarding the recall within what time period:",
+      "question": "If a non-resident outsourcing pharmacy issues a recall notice on a sterile compounded drug they must contact the recipient pharmacy regarding the recall within what time period:",
       "options": [
-        "7 days",
-        "12 hours",
         "1 day",
-        "3 days"
+        "12 hours",
+        "3 days",
+        "7 days"
       ],
       "answer": "1 day",
       "explanation": "California law requires non-resident compounding pharmacies to notify recipient pharmacies of a sterile compounded drug recall within 1 calendar day of the recall being issued."
@@ -585,7 +585,7 @@
       "type": "multiple-choice",
       "question": "A relief pharmacist will be filling in for the PIC of a community pharmacy for 3 days. The PIC cannot physically hand the key over to the relief pharmacist, so he left the key with the store manager in a signed/sealed envelope within a tamper-evident container. The store manager was instructed not to open the envelope and only give it to the relief pharmacist to open the pharmacy. Is it permissible to hand the key over in this manner?",
       "options": [
-        "No, because the PIC did not grant POA to the relief pharmacist",
+        "No, because the PIC did not grant power of authority to the relief pharmacist",
         "No, because the PIC must personally hand the key to the relief pharmacist",
         "Yes, because the PIC placed the key into a tamper-evident container",
         "Yes, because the store manager can have a pharmacy key"
@@ -595,7 +595,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "The PIC caught the other staff pharmacist trying to put an open bottle of Tramadol into her purse during a shift. When the PIC confronted her, she admitted becoming addicted after having a recent surgery. What is the most appropriate action the PIC should take?",
+      "question": "The PIC caught the other staff pharmacist trying to put an open bottle of Tramadol into her purse during a shift. When the PIC confronted her, she admitted becoming addicted after having a recent surgery. What is the MOST appropriate action the PIC should take?",
       "options": [
         "Do not report the theft since the medication is not controlled. Refer her to the pharmacist recovery program.",
         "Report the theft and chemical impairment to the board within 30 days",
@@ -609,12 +609,12 @@
       "type": "multiple-choice",
       "question": "Over 3,000 collection sites nationwide participate in a national program to collect unwanted prescription and non-prescription drugs. What is the name of this program?",
       "options": [
-        "Take-back",
-        "Take-control",
-        "reUse- and reCycle",
-        "Take-away"
+        "Take-Back",
+        "Take-Control",
+        "ReUse-and-ReCycle",
+        "Take-Away"
       ],
-      "answer": "Take-back",
+      "answer": "Take-Back",
       "explanation": "The DEA's National Prescription Drug Take-Back program collects unwanted medications at authorized sites across the country to prevent drug diversion and environmental contamination."
     },
     {
@@ -683,7 +683,7 @@
       "options": [
         "Register with the DEA to adjust controlled substance therapy",
         "Perform patient assessments",
-        "Order drug therapy-related lab tests",
+        "Order drug therapy-related laboratory tests",
         "Prescribe up to a year of PrEP without a protocol"
       ],
       "answer": "Prescribe up to a year of PrEP without a protocol",
@@ -729,12 +729,12 @@
       "type": "multiple-choice",
       "question": "Pharmacies can donate medications to a county-approved drug repository and distribution program. Which of the following is correct regarding a drug repository and distribution program?",
       "options": [
-        "The pharmacy that is distributing donated drugs to low-income patients must establish eligibility requirements.",
-        "Donated medications can be integrated with the pharmacy's other drug inventory.",
-        "Controlled substances are permitted as a part of the drug repository and donation program.",
-        "Low-income patients cannot be charged more than $1 for a prescription filled with a donated drug."
+        "The pharmacy that is distributing donated drugs to low-income patients must establish eligibility requirements",
+        "Donated medications can be integrated with the pharmacy's other drug inventory",
+        "Controlled substances are permitted as a part of the drug repository and donation program",
+        "Low-income patients cannot be charged more than $1 for a prescription filled with a donated drug"
       ],
-      "answer": "The pharmacy that is distributing donated drugs to low-income patients must establish eligibility requirements.",
+      "answer": "The pharmacy that is distributing donated drugs to low-income patients must establish eligibility requirements",
       "explanation": "Under California law, pharmacies distributing donated medications must establish patient eligibility criteria. Donated drugs cannot be mixed with regular inventory, controlled substances are excluded, and pharmacies may charge a dispensing fee."
     },
     {
@@ -838,12 +838,60 @@
       "question": "Which of the following is an acceptable method of filling prescriptions?",
       "options": [
         "One file for schedule II drugs, a second file for schedule III-V drugs, a third file for non-controlled drugs",
-        "One file for schedule II-V and non-controlled drugs, a red \"C\" must be stamped on the schedule II-V",
+        "One file for schedule II-V and non-controlled drugs, a red \"C\" must be stamped on schedule II-V prescriptions",
         "One file for schedule II-V drugs, a second file for non-controlled drugs",
-        "One file for schedule II drugs, a second file for schedule III-V and non-controlled drugs; a red \"C\" must be stamped on the schedule II drugs"
+        "One file for schedule II drugs, a second file for schedule III-V and non-controlled drugs; a red \"C\" must be stamped on the schedule II prescriptions"
       ],
       "answer": "One file for schedule II drugs, a second file for schedule III-V drugs, a third file for non-controlled drugs",
       "explanation": "The DEA's 3-file system (Schedule II separate, Schedule III-V together, non-controlled separate) is one acceptable filing method. A 2-file system is also acceptable if a red \"C\" is stamped on controlled substances filed with non-controlled substances."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records do NOT need to be kept for three years?\n1. Purchase invoices for all prescription drugs.\n2. Patient acknowledgement of HIPAA.\n3. Record documenting return of drugs to wholesaler or manufacturer.\n4. Certificate of completion for continuing education.",
+      "options": [
+        "1 and 3 only",
+        "2 and 3 only",
+        "2 and 4 only",
+        "1 and 4 only"
+      ],
+      "answer": "2 and 4 only",
+      "explanation": ""
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A wholesaler received three cases of insulin glargine, which were inadvertently placed in the non-refrigerated section of the warehouse and stored for two weeks. During this time, the temperature was not regulated or monitored. The wholesaler wishes to deliver these cases to a local pharmacy. What is the best course of action at this time?",
+      "options": [
+        "Discard all of the insulin",
+        "Place the insulin in the refrigerator to obtain the correct temperature before delivery",
+        "Deliver the insulin to the pharmacy with a 30-day expiration date",
+        "The wholesaler should report this to the DEA with a DEA Form 106"
+      ],
+      "answer": "Discard all of the insulin",
+      "explanation": ""
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which records need to be kept longer than three years?\n1. DEA forms 222.\n2. Pseudophedrine, ephedrine, phenylpropanolamine and norpseudophedrine sale logs.\n3. Hospital pharmacy chart order records for controlled substances.\n4. Theft and loss reports of controlled substances.",
+      "options": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "3 only",
+        "4 only"
+      ],
+      "answer": "3 only",
+      "explanation": ""
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When performing an inventory of controlled substances, which of the following is permissible for determining the quantity in stock?",
+      "options": [
+        "Estimated count of schedule II-V drugs",
+        "Exact count of schedule II-V drugs",
+        "Exact count of schedule II-III drugs and estimated count of schedule IV-V drugs",
+        "Exact count of schedule II drugs and estimated count of schedule III-V drugs"
+      ],
+      "answer": "Exact count of schedule II-V drugs",
+      "explanation": ""
     }
   ]
 }

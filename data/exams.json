@@ -3,14 +3,14 @@
     "id": "cpje-clinical-questions",
     "title": "CPJE Clinical Questions",
     "description": "From study guide.pdf.",
-    "timeLimit": 1,
+    "timeLimit": 60,
     "passingScore": 70
   },
   {
     "id": "cpje-law-questions",
     "title": "CPJE Law Questions",
-    "description": "From study guide.pdf.",
-    "timeLimit": 1,
+    "description": "Questions from UWorld and study guide.pdf",
+    "timeLimit": 60,
     "passingScore": 70
   }
 ]
