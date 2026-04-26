@@ -21,6 +21,11 @@ function escapeHtml(str) {
     .replace(/'/g, '&#039;');
 }
 
+// Like escapeHtml but also converts \n to <br> for multi-line question text
+function formatText(str) {
+  return escapeHtml(str).replace(/\n/g, '<br>');
+}
+
 function shuffleArray(arr) {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -198,7 +203,7 @@ function renderQuestion() {
   badge.textContent = q.type === 'multiple-choice' ? 'Multiple Choice' : 'Short Answer';
   badge.className = `question-type-badge ${q.type === 'multiple-choice' ? 'badge-mc' : 'badge-sa'}`;
 
-  document.getElementById('question-text').textContent = q.question;
+  document.getElementById('question-text').innerHTML = formatText(q.question);
 
   // Optional image
   const imgWrap = document.getElementById('question-image');
@@ -335,7 +340,7 @@ function initReview() {
         </span>
         <span class="review-q-type">${q.type === 'multiple-choice' ? 'Multiple Choice' : 'Short Answer'}</span>
       </div>
-      <p class="review-q-text">${escapeHtml(q.question)}</p>
+      <p class="review-q-text">${formatText(q.question)}</p>
       ${q.image ? `<img src="${escapeHtml(q.image.src)}" alt="${escapeHtml(q.image.alt || '')}" class="review-img">` : ''}
       <div class="review-answers">
         <div class="answer-row ${q.correct ? 'row-correct' : 'row-wrong'}">
