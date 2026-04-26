@@ -1,0 +1,237 @@
+{
+  "id": "cpje-law-duration-questions",
+  "title": "CPJE - UWorld Duration Questions",
+  "description": "Questions that test what needs how long",
+  "timeLimit": 60,
+  "passingScore": 70,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "How long must a pharmacy keep records of the patient's acknowledgement that they have received the notice of privacy practices?",
+      "options": [
+        "3 years",
+        "1 year",
+        "6 years",
+        "30 days"
+      ],
+      "answer": "6 years",
+      "explanation": "Under HIPAA, pharmacies must retain records of patients' acknowledgement of the Notice of Privacy Practices for 6 years from the date of creation or last effective date."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The pharmacy must keep the biennial self-assessment forms for this time period:",
+      "options": [
+        "3 years",
+        "6 years",
+        "1 year",
+        "30 days"
+      ],
+      "answer": "3 years",
+      "explanation": "Under California pharmacy law, the biennial self-assessment forms completed by the PIC must be kept for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist was recently married and decided to change her last name. How long does the pharmacist have to notify the CA Board of her name change?",
+      "options": [
+        "6 months",
+        "45 days",
+        "1 year",
+        "30 days"
+      ],
+      "answer": "30 days",
+      "explanation": "California BOP requires pharmacists to notify the board of any name or address change within 30 days."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How often does a hospital need to perform an inventory of schedule II drugs?",
+      "options": [
+        "Monthly",
+        "Quarterly",
+        "Annually",
+        "Biennially"
+      ],
+      "answer": "Quarterly",
+      "explanation": "California law requires hospitals to perform an accurate count of Schedule II controlled substances every 3 months (quarterly), with records maintained for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records do NOT need to be kept for 3 years?\n1. Purchase invoices for all prescription drugs\n2. Patient acknowledgement of HIPAA\n3. Record documenting return of drugs to wholesaler or manufacturer\n4. Certificate of completion for continuing education",
+      "options": [
+        "1 and 2",
+        "2 and 4",
+        "3 only",
+        "1 and 3"
+      ],
+      "answer": "2 and 4",
+      "explanation": "Patient HIPAA acknowledgements must be kept for 6 years (not 3). Records of drug returns to wholesalers must be kept for 3 years. CE certificates must be kept for 4 years per BOP requirements."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy filed a DEA form 106. According to California law, how long must the pharmacy keep a copy of this report?",
+      "options": [
+        "6 years",
+        "3 years",
+        "1 year",
+        "30 days"
+      ],
+      "answer": "3 years",
+      "explanation": "DEA Form 106 (theft or significant loss of controlled substances) must be retained by the pharmacy for 3 years per both federal DEA and California BOP requirements."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The owner of a small independent pharmacy has continually lost business due to the rise in big chain pharmacies in the area, and has decided to declare bankruptcy. Within what time period must he report the bankruptcy to the board?",
+      "options": [
+        "15 days",
+        "Immediately",
+        "7 days",
+        "3 days"
+      ],
+      "answer": "Immediately",
+      "explanation": "California BOP requires immediate notification when a pharmacy owner files for bankruptcy, as this directly affects the operation and legal status of the pharmacy."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following statements about continuing education for pharmacists is correct?",
+      "options": [
+        "All new licensees are exempt from the first two CE renewal cycles",
+        "The pharmacist must complete 30 hours of CE every 2 years",
+        "The pharmacist must complete 20 hours of CE every 2 years",
+        "Documentation of continuing education must be kept for 3 years"
+      ],
+      "answer": "The pharmacist must complete 30 hours of CE every 2 years",
+      "explanation": "California BOP requires pharmacists to complete 30 hours of continuing education every 2-year renewal period. CE documentation must be kept for 4 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy special ordered Vivotif capsules for a patient who did not pick up the medication. The pharmacy then returned the capsules to the wholesaler. How long does the pharmacy need to keep the record of the returned drugs?",
+      "options": [
+        "30 days",
+        "1 year",
+        "3 years",
+        "6 years"
+      ],
+      "answer": "3 years",
+      "explanation": "Records documenting drug returns to wholesalers or manufacturers must be retained by the pharmacy for 3 years under California BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Patient profiles must be kept for this time period:",
+      "options": [
+        "30 days from the last fill",
+        "1 year from the last fill",
+        "3 years from the first fill",
+        "3 years from the last fill"
+      ],
+      "answer": "1 year from the last fill",
+      "explanation": "California BOP requires patient profiles to be maintained for a minimum of 1 year from the date of the last prescription filled."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records do NOT need to be kept for three years?\n1. DEA forms 222\n2. PSE, ephedrine, phenylpropanolamine and norpseudoephedrine sale logs\n3. Hospital pharmacy chart order records for controlled substances\n4. Theft and loss reports of controlled substances",
+      "options": [
+        "3 and 4",
+        "1 and 2",
+        "1 and 3",
+        "2 and 3"
+      ],
+      "answer": "2 and 3",
+      "explanation": "PSE/ephedrine logs must be kept for 2 years (not 3). Hospital pharmacy chart orders for controlled substances must be kept for 2 years. DEA Form 222 and theft/loss reports (Form 106) must be kept for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If a non-resident outsourcing pharmacy issues a recall notice on a sterile compounded drug they must contact the recipient pharmacy regarding the recall within what time period:",
+      "options": [
+        "1 day",
+        "12 hours",
+        "3 days",
+        "7 days"
+      ],
+      "answer": "1 day",
+      "explanation": "California law requires non-resident compounding pharmacies to notify recipient pharmacies of a sterile compounded drug recall within 1 calendar day of the recall being issued."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy sells small amounts of compounded drugs to an OB-GYN office in the same medical building. Occasionally, they sell drugs to other independent pharmacies up the street when it has run out of a medication. How long does the pharmacy need to keep the records documenting these drug sales?",
+      "options": [
+        "6 years",
+        "3 years",
+        "1 year",
+        "30 days"
+      ],
+      "answer": "3 years",
+      "explanation": "Records of pharmacy-to-pharmacy or pharmacy-to-prescriber drug sales must be retained for 3 years under California BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "All prescriptions must be kept by the pharmacy for this time period:",
+      "options": [
+        "6 years",
+        "3 years",
+        "1 year",
+        "30 days"
+      ],
+      "answer": "3 years",
+      "explanation": "California BOP requires all prescription records to be retained for a minimum of 3 years from the date of dispensing."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Records documenting medication errors must be kept by the pharmacy for this time period:",
+      "options": [
+        "4 years",
+        "30 days",
+        "1 year",
+        "3 years"
+      ],
+      "answer": "1 year",
+      "explanation": "California BOP requires pharmacies to retain records of medication errors for a minimum of 1 year."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Purchase invoices for all prescription drugs must be kept by the pharmacy for this time period:",
+      "options": [
+        "30 days",
+        "6 years",
+        "1 year",
+        "3 years"
+      ],
+      "answer": "3 years",
+      "explanation": "Purchase invoices for prescription drugs must be retained by the pharmacy for 3 years under California BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Completed DEA forms 222 and Power of Attorney documents to order controlled substances must be kept by the pharmacy for this time period:",
+      "options": [
+        "30 days",
+        "1 year",
+        "2 years",
+        "3 years"
+      ],
+      "answer": "3 years",
+      "explanation": "DEA Form 222 (order forms for Schedule II substances) and Power of Attorney documents must be retained for 3 years from the date of execution under federal DEA regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records do NOT need to be kept for three years?\n1. Purchase invoices for all prescription drugs.\n2. Patient acknowledgement of HIPAA.\n3. Record documenting return of drugs to wholesaler or manufacturer.\n4. Certificate of completion for continuing education.",
+      "options": [
+        "1 and 3 only",
+        "2 and 3 only",
+        "2 and 4 only",
+        "1 and 4 only"
+      ],
+      "answer": "2 and 4 only",
+      "explanation": ""
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which records need to be kept longer than three years?\n1. DEA forms 222.\n2. Pseudophedrine, ephedrine, phenylpropanolamine and norpseudophedrine sale logs.\n3. Hospital pharmacy chart order records for controlled substances.\n4. Theft and loss reports of controlled substances.",
+      "options": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "3 only",
+        "4 only"
+      ],
+      "answer": "3 only",
+      "explanation": ""
+    }
+  ]
+}

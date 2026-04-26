@@ -336,9 +336,9 @@
         "1 and 2",
         "2 and 4",
         "3 only",
-        "2 and 4"
+        "1 and 3"
       ],
-      "answer": "Record documenting return of drugs to wholesaler or manufacturer",
+      "answer": "2 and 4",
       "explanation": "Patient HIPAA acknowledgements must be kept for 6 years (not 3). Records of drug returns to wholesalers must be kept for 3 years. CE certificates must be kept for 4 years per BOP requirements."
     },
     {

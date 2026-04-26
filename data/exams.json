@@ -12,5 +12,19 @@
     "description": "Questions from UWorld and study guide.pdf",
     "timeLimit": 60,
     "passingScore": 70
+  },
+  {
+    "id": "cpje-law-duration-questions",
+    "title": "CPJE Law Duration Questions",
+    "description": "Retention period questions",
+    "timeLimit": 60,
+    "passingScore": 70
+  },
+  {
+    "id": "cpje-law-duration-questions-2",
+    "title": "CPJE Law Questions Set 2",
+    "description": "Retention period questions set 2. AI-generated.",
+    "timeLimit": 60,
+    "passingScore": 70
   }
 ]

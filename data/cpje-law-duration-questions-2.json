@@ -1,0 +1,237 @@
+{
+  "id": "cpje-law-duration-questions-2",
+  "title": "CPJE - Duration Questions Set 2",
+  "description": "Additional questions testing record retention periods and reporting timelines under California pharmacy law. AI-generated. Please fact check yourself.",
+  "timeLimit": 60,
+  "passingScore": 70,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "A community pharmacy dispensed a controlled substance prescription last month. Under California BOP regulations, how long must the pharmacy retain this prescription record?",
+      "options": [
+        "1 year from the date of dispensing",
+        "2 years from the date of dispensing",
+        "3 years from the date of dispensing",
+        "6 years from the date of dispensing"
+      ],
+      "answer": "3 years from the date of dispensing",
+      "explanation": "Under BPC §4081 and CCR §1717, California pharmacies must retain all prescription records for a minimum of 3 years from the date of dispensing. This applies to both controlled and non-controlled substances."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist completed a Board-approved continuing education course. How long must the pharmacist retain the certificate of completion?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "answer": "4 years",
+      "explanation": "California pharmacists must retain continuing education certificates of completion for 4 years in case of a Board audit. Note: this is different from the 3-year retention period for many pharmacy records."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How often must a California community pharmacy conduct a controlled substances inventory?",
+      "options": [
+        "Monthly",
+        "Quarterly",
+        "Every year",
+        "Every 2 years"
+      ],
+      "answer": "Every 2 years",
+      "explanation": "Federal DEA regulations (21 CFR §1304.11) and California law require pharmacies to conduct a biennial (every 2 years) physical inventory of all controlled substances on hand."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist discovers a significant theft of oxycodone from the pharmacy. When must the pharmacy report this theft to the DEA?",
+      "options": [
+        "Within 1 day",
+        "Within 7 days",
+        "Within 30 days",
+        "Within 72 hours"
+      ],
+      "answer": "Within 1 day",
+      "explanation": "Significant losses or thefts of controlled substances must be reported to the DEA immediately (within 1 business day) using DEA Form 106. The California Board of Pharmacy must also be notified within 30 days."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy technician who has been working at a pharmacy for 5 years moves to a new address. Within what time period must the technician notify the California Board of Pharmacy of this change?",
+      "options": [
+        "Immediately",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": "30 days",
+      "explanation": "California BOP requires all licensees, including pharmacy technicians, to notify the board of any address or name change within 30 days."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A hospital pharmacy is required to conduct inventory reconciliation reports for Schedule II controlled substances. How often must these reports be prepared?",
+      "options": [
+        "Weekly",
+        "Monthly",
+        "Quarterly",
+        "Annually"
+      ],
+      "answer": "Quarterly",
+      "explanation": "Under CCR §1715.65, California hospital pharmacies must prepare inventory reconciliation reports for Schedule II controlled substances at least once every three months (quarterly)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy sold pseudoephedrine products at the counter and maintained the required sales log. How long must the pharmacy keep these PSE sale records?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "6 years"
+      ],
+      "answer": "2 years",
+      "explanation": "Pseudoephedrine, ephedrine, phenylpropanolamine, and norpseudoephedrine sale logs must be retained for 2 years under California law. This is shorter than the standard 3-year retention period for most pharmacy records."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy's PIC identifies a medication error that injured a patient. How long must the pharmacy retain the record documenting this medication error?",
+      "options": [
+        "30 days",
+        "1 year",
+        "3 years",
+        "6 years"
+      ],
+      "answer": "1 year",
+      "explanation": "California BOP requires pharmacies to retain records of medication errors for a minimum of 1 year from the date of the error."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records has the LONGEST required retention period under California pharmacy law?\n1. All prescription records\n2. DEA Form 222\n3. Patient acknowledgement of HIPAA notice of privacy practices\n4. Biennial self-assessment form",
+      "options": [
+        "1 and 2",
+        "3 only",
+        "4 only",
+        "1, 2, and 4"
+      ],
+      "answer": "3 only",
+      "explanation": "HIPAA requires pharmacies to retain records of patient acknowledgement of the Notice of Privacy Practices for 6 years — longer than any of the others. Prescription records, DEA Form 222, and biennial self-assessment forms must all be retained for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy receives a DEA Form 222 order for Schedule II drugs from another registrant. How long must the pharmacy retain its copy of the completed Form 222?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "6 years"
+      ],
+      "answer": "3 years",
+      "explanation": "Completed DEA Form 222 order forms must be retained for 3 years from the date of execution under federal DEA regulations (21 CFR §1305.17)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist-in-charge completes the community pharmacy biennial self-assessment form. How long must the pharmacy retain this completed form?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "Until the next self-assessment"
+      ],
+      "answer": "3 years",
+      "explanation": "Completed biennial self-assessment forms must be retained by the pharmacy for 3 years under California BOP regulations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "An outsourcing facility issues a recall notice for a sterile compounded drug product it shipped to a hospital pharmacy. Within what time period must the outsourcing facility notify the recipient hospital pharmacy of the recall?",
+      "options": [
+        "12 hours",
+        "1 calendar day",
+        "3 days",
+        "7 days"
+      ],
+      "answer": "1 calendar day",
+      "explanation": "California law requires non-resident outsourcing facilities to notify recipient pharmacies of a sterile compounded drug recall within 1 calendar day of the recall being issued."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following records must be kept for LESS than 3 years under California pharmacy law?\n1. PSE/ephedrine sale logs\n2. Hospital pharmacy chart order records for controlled substances\n3. DEA Form 222\n4. Medication error records",
+      "options": [
+        "1 and 2 only",
+        "1 and 4 only",
+        "2 and 4 only",
+        "1, 2, and 4"
+      ],
+      "answer": "1, 2, and 4",
+      "explanation": "PSE/ephedrine sale logs (2 years), hospital pharmacy chart orders for controlled substances (2 years), and medication error records (1 year) all have retention periods less than 3 years. DEA Form 222 must be kept for 3 years."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy's license was just renewed. When is the next time the pharmacy is required to complete a self-assessment form?",
+      "options": [
+        "Every year by July 1st",
+        "Every odd-numbered year before July 1st",
+        "Every even-numbered year before July 1st",
+        "Every 3 years by July 1st"
+      ],
+      "answer": "Every odd-numbered year before July 1st",
+      "explanation": "California BOP requires pharmacies to complete a self-assessment form every odd-numbered year (e.g., 2025, 2027) and submit it before July 1st of that year."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How frequently must dispensing data be submitted to CURES by California pharmacies?",
+      "options": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Quarterly"
+      ],
+      "answer": "Weekly",
+      "explanation": "California pharmacies are required to submit prescription dispensing data for Schedule II–IV controlled substances to CURES (Controlled Substance Utilization Review and Evaluation System) on a weekly basis."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacy closes permanently. The PIC must notify the Board of Pharmacy of the closure. Within what time period must this notification occur?",
+      "options": [
+        "Immediately",
+        "7 days",
+        "15 days",
+        "30 days"
+      ],
+      "answer": "30 days",
+      "explanation": "A pharmacy closing permanently must notify the California Board of Pharmacy within 30 days of closure. Compare this to bankruptcy, which requires immediate notification."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following correctly matches a record type with its required California retention period?\n1. CE certificate of completion — 4 years\n2. Patient HIPAA acknowledgement — 6 years\n3. DEA Form 222 — 3 years\n4. PSE sale log — 3 years",
+      "options": [
+        "1, 2, and 3 only",
+        "1, 3, and 4 only",
+        "2, 3, and 4 only",
+        "All of the above"
+      ],
+      "answer": "1, 2, and 3 only",
+      "explanation": "CE certificates (4 years), HIPAA acknowledgements (6 years), and DEA Form 222 (3 years) are all correctly matched. However, PSE/ephedrine sale logs must be kept for only 2 years — not 3 — making statement 4 incorrect."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A pharmacist identifies a potential controlled substance loss while reviewing quarterly inventory reconciliation reports. How long after discovery must the pharmacy report this loss to the California Board of Pharmacy?",
+      "options": [
+        "Immediately",
+        "Within 14 days",
+        "Within 30 days",
+        "Within 60 days"
+      ],
+      "answer": "Within 30 days",
+      "explanation": "Pharmacies must report identified controlled substance losses to the California Board of Pharmacy within 30 days of discovery, unless the loss was caused by theft or diversion — in which case DEA must also be notified within 1 business day."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A hospital pharmacy discovers a discrepancy in its Schedule II inventory. A medication error investigation is initiated. Within what time period must the investigation begin?",
+      "options": [
+        "Within 24 hours",
+        "Within 2 days",
+        "Within 7 days",
+        "Within 30 days"
+      ],
+      "answer": "Within 2 days",
+      "explanation": "California BOP requires pharmacies to begin a medication error investigation within 2 days (48 hours) of discovery of the error."
+    }
+  ]
+}
